@@ -1,9 +1,9 @@
 ### Contribution
 We believe the power of the open source projects and we will always be strong defender of that , Are you like us and want to contribute to Dtube ? Thats great ! Here is a guide to help you , how should you proceed during this process.
 
-|Repo|Tech|What is it?|Intro Video|
+|Repo|Tech|What is it?|Link|
 |---|---|---|---|
-|[dtube](https://github.com/dtube/dtube)|JS, Meteor, Semantic UI|[d.tube](https://d.tube): The main UI|   |
+|[dtube](https://github.com/dtube/dtube)|JS, Meteor, Semantic UI|The web-app everyone uses|[d.tube](https://d.tube)|
 |[embed](https://github.com/dtube/embed)|JS, HTML, CSS|The video player|   |
 |[avalon](https://github.com/dtube/avalon)|NodeJS, MongoDB|A DPOS blockchain for channel subscriptions,video rankings (hot/trending/feed/etc), and DTube Coin|   |
 |[javalon](https://github.com/dtube/javalon)|JS|Wrapper for Avalon API|   |
@@ -12,9 +12,9 @@ We believe the power of the open source projects and we will always be strong de
 |[encoders](https://github.com/dtube/encoders)|NodeJS|Centralized file-uploader and encoder|   |
 |[ipfs-uploader](https://github.com/dtube/ipfs-uploader)|C#|Old file-uploader, still used for thumbnails|   |
 |[imagehoster](https://github.com/dtube/imagehoster)|TypeScript|Image proxy for the avatar and channel covers|   |
-|[signup](https://github.com/dtube/signup)|NodeJS|[signup.d.tube](https://signup.d.tube), a centralized account faucet for avalon|   |
-|[token](https://github.com/dtube/token)|HTML, CSS, JS|[token.d.tube](https://token.d.tube), a presentation of the upcoming DTC token|   |
-|[about](https://github.com/dtube/about)|HTML, CSS|[about.d.tube](https://about.d.tube), a page presenting the project|   |
+|[signup](https://github.com/dtube/signup)|NodeJS|Centralized account faucet for avalon|[signup.d.tube](https://signup.d.tube)|
+|[token](https://github.com/dtube/token)|HTML, CSS, JS|Presentation of the upcoming DTC token|[token.d.tube](https://token.d.tube)|
+|[about](https://github.com/dtube/about)|HTML, CSS|A page presenting the project|[about.d.tube](https://about.d.tube)|
 
 ### Coding
 Several super smart , wise and helpfull people, as well as our CTO have contributed to Dtube. We believe true power of open source projects and if you believe too Join us !
