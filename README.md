@@ -4,14 +4,14 @@ We believe the power of the open source projects and we will always be strong de
 |Repo|Tech|What is it?|Link|
 |---|---|---|---|
 |[dtube](https://github.com/dtube/dtube)|JS, Meteor, Semantic UI|The web-app everyone uses|[d.tube](https://d.tube)|
-|[embed](https://github.com/dtube/embed)|JS, HTML, CSS|The video player|   |
-|[avalon](https://github.com/dtube/avalon)|NodeJS, MongoDB|A DPOS blockchain for channel subscriptions,video rankings (hot/trending/feed/etc), and DTube Coin|   |
+|[embed](https://github.com/dtube/embed)|JS, HTML, CSS|The video player|[emb.d.tube](https://emb.d.tube/#!/alokkumar121/Qmb2YtaokLVPgXGG6tzDV663SXLfXz1Q2tNJ2ZWb4Nfnqo)|
+|[avalon](https://github.com/dtube/avalon)|NodeJS, MongoDB|A DPOS blockchain for channel subscriptions,video rankings (hot/trending/feed/etc), and DTube Coin|[avalon.d.tube](https://avalon.d.tube/trending)|
 |[javalon](https://github.com/dtube/javalon)|JS|Wrapper for Avalon API|   |
 |[minidtube](https://github.com/dtube/minidtube)|NodeJS|Server-side generation for robots|   |
-|[oembedtube](https://github.com/dtube/oembedtube)|NodeJS|oEmbed API|   |
+|[oembedtube](https://github.com/dtube/oembedtube)|NodeJS|oEmbed API|[api.d.tube](https://api.d.tube/oembed?url=https://d.tube/v/clixmoney/h1sh3h82tn5)|
 |[encoders](https://github.com/dtube/encoders)|NodeJS|Centralized file-uploader and encoder|   |
 |[ipfs-uploader](https://github.com/dtube/ipfs-uploader)|C#|Old file-uploader, still used for thumbnails|   |
-|[imagehoster](https://github.com/dtube/imagehoster)|TypeScript|Image proxy for the avatar and channel covers|   |
+|[imagehoster](https://github.com/dtube/imagehoster)|TypeScript|Image proxy for the avatar and channel covers|[image.d.tube](https://image.d.tube/u/heimindanger/avatar/)|
 |[signup](https://github.com/dtube/signup)|NodeJS|Centralized account faucet for avalon|[signup.d.tube](https://signup.d.tube)|
 |[token](https://github.com/dtube/token)|HTML, CSS, JS|Presentation of the upcoming DTC token|[token.d.tube](https://token.d.tube)|
 |[about](https://github.com/dtube/about)|HTML, CSS|A page presenting the project|[about.d.tube](https://about.d.tube)|
