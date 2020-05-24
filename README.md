@@ -1,6 +1,16 @@
 ### Contribution
 We believe the power of the open source projects and we will always be strong defender of that , Are you like us and want to contribute to Dtube ? Thats great ! Here is a guide to help you , how should you proceed during this process.
 
+|Repo|Tech|What is it?|Intro Video|
+|---|---|---|---|
+|[dtube](https://github.com/dtube/dtube)|JS, Meteor, Semantic UI|DTube UI you can use on [d.tube](https://d.tube)|   |
+|[production](https://github.com/dtube/production)||Built and minified version of DTube UI|   |
+|[embed](https://github.com/dtube/embed)|HTML, JS, CSS|DTube's video player|   |
+|[avalon](https://github.com/dtube/avalon)|NodeJS, MongoDB|DTube's blockchain|   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+
 ### Coding
 Several super smart , wise and helpfull people, as well as our CTO have contributed to Dtube. We believe true power of open source projects and if you believe too Join us !
 
