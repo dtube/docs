@@ -15,6 +15,7 @@ We believe the power of the open source projects and we will always be strong de
 |[signup](https://github.com/dtube/signup)|NodeJS|Centralized account faucet for avalon|[signup.d.tube](https://signup.d.tube)|
 |[token](https://github.com/dtube/token)|HTML, CSS, JS|Presentation of the upcoming DTC token|[token.d.tube](https://token.d.tube)|
 |[about](https://github.com/dtube/about)|HTML, CSS|A page presenting the project|[about.d.tube](https://about.d.tube)|
+|[curation](https://github.com/dtube/dtube-curation)|NodeJS|A discord bot for DTube's curation team||
 
 ### Coding
 Several super smart , wise and helpfull people, as well as our CTO have contributed to Dtube. We believe true power of open source projects and if you believe too Join us !
