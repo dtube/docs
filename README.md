@@ -7,9 +7,13 @@ We believe the power of the open source projects and we will always be strong de
 |[production](https://github.com/dtube/production)||Built and minified version of DTube UI|   |
 |[embed](https://github.com/dtube/embed)|HTML, JS, CSS|DTube's video player|   |
 |[avalon](https://github.com/dtube/avalon)|NodeJS, MongoDB|DTube's blockchain|   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|[javalon](https://github.com/dtube/javalon)|JS|Wrapper for Avalon API|   |
+|[minidtube](https://github.com/dtube/minidtube)|JS|DTube server-side generation for robots|   |
+|[oembedtube](https://github.com/dtube/oembedtube)|JS|DTube oEmbed API|   |
+|[encoders](https://github.com/dtube/encoders)|NodeJS|DTube's centralized uploader and encoder|   |
+|[signup](https://github.com/dtube/signup)|NodeJS|signup.d.tube, a centralized account faucet for avalon|   |
+|[token](https://github.com/dtube/token)|HTML, CSS, JS|token.d.tube, a presentation of the upcoming DTC token|   |
+|[about](https://github.com/dtube/about)|HTML, CSS|about.d.tube, a page presenting the project|   |
 
 ### Coding
 Several super smart , wise and helpfull people, as well as our CTO have contributed to Dtube. We believe true power of open source projects and if you believe too Join us !
