@@ -4,13 +4,14 @@ We believe the power of the open source projects and we will always be strong de
 |Repo|Tech|What is it?|Intro Video|
 |---|---|---|---|
 |[dtube](https://github.com/dtube/dtube)|JS, Meteor, Semantic UI|DTube UI you can use on [d.tube](https://d.tube)|   |
-|[production](https://github.com/dtube/production)||Built and minified version of DTube UI|   |
-|[embed](https://github.com/dtube/embed)|HTML, JS, CSS|DTube's video player|   |
+|[embed](https://github.com/dtube/embed)|JS, HTML, CSS|DTube's video player|   |
 |[avalon](https://github.com/dtube/avalon)|NodeJS, MongoDB|DTube's blockchain|   |
 |[javalon](https://github.com/dtube/javalon)|JS|Wrapper for Avalon API|   |
-|[minidtube](https://github.com/dtube/minidtube)|JS|DTube server-side generation for robots|   |
-|[oembedtube](https://github.com/dtube/oembedtube)|JS|DTube oEmbed API|   |
+|[minidtube](https://github.com/dtube/minidtube)|NodeJS|DTube server-side generation for robots|   |
+|[oembedtube](https://github.com/dtube/oembedtube)|NodeJS|DTube oEmbed API|   |
 |[encoders](https://github.com/dtube/encoders)|NodeJS|DTube's centralized uploader and encoder|   |
+|[ipfs-uploader](https://github.com/dtube/ipfs-uploader)|C#|Old video encoder, still used for thumbnail uploads|   |
+|[imagehoster](https://github.com/dtube/imagehoster)|TypeScript|Image proxy for the avatar and channel covers|   |
 |[signup](https://github.com/dtube/signup)|NodeJS|signup.d.tube, a centralized account faucet for avalon|   |
 |[token](https://github.com/dtube/token)|HTML, CSS, JS|token.d.tube, a presentation of the upcoming DTC token|   |
 |[about](https://github.com/dtube/about)|HTML, CSS|about.d.tube, a page presenting the project|   |
