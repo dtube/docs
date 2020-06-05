@@ -1,5 +1,24 @@
-### Contribution
-We believe the power of the open source projects and we will always be strong defender of that , Are you like us and want to contribute to Dtube ? Thats great ! Here is a guide to help you , how should you proceed during this process.
+# Contribute to DTube
+DTube is full open-source software. We want to make it as easy as possible for **Dtube** users to become Dtube contributors, open-source projects form the backbone, basis, and foundation for our rapidly advancing technological world. We’ve created this contribution guide to help you get started. We have multiple categories to cater to people of varying interests so that everyone can contribute.
+
+## Summary
+1. [Questions?](#Questions?)
+2. [Repositories](#Repositories)
+3. [Coding](#Coding)
+4. [Design/UX](#Design/UX)
+5. [Documentation](#Documentation)
+6. [Translations](#Translations)
+
+
+## Questions?
+
+*1*- Feel free to join our [discord](discord.gg/dtube) channels or [reddit](https://www.reddit.com/dtube) and ask any question and meet with other developers
+*2*- You can get in touch with any team member about merge requests, questions or ideas.
+*3*- If you have feature ideas/questions or bug reports, you can search for existing issues or create a new [issue](https://github.com/dtube/dtube/issues) if there isn't one already
+
+## Repositories
+
+All of our code and assets are available directly in GitHub repositories.
 
 |Repo|Tech|What is it?|Link|
 |---|---|---|---|
@@ -17,64 +36,44 @@ We believe the power of the open source projects and we will always be strong de
 |[about](https://github.com/dtube/about)|HTML, CSS|A page presenting the project|[about.d.tube](https://about.d.tube)|
 |[curation](https://github.com/dtube/dtube-curation)|NodeJS|A discord bot for DTube's curation team||
 
-### Coding
-Several super smart , wise and helpfull people, as well as our CTO have contributed to Dtube. We believe true power of open source projects and if you believe too Join us !
+## Coding
+If you don't know what to work on but want to help, please work on issues listed on each repository tagged as bug or enhancement.
 
-### How To Contribute Code
-Join our community . By joining our [chat](https://discord.gg/BcTr97) , you can interact with other developers , or you can use **help** channel when you have questions, ideas, or problems.
-Identify the component you want to work on. Dtube  has code bases that deal with everything from cryptography and distributed systems to end-user graphic user-interfaces. We use  JavaScript,. 
-**Get set up.** Each repo has a README with clear instructions on how to get the repo up and running properly. Thanks, Repository Standards!
-Find something to work on. All actively developed repositories should have issues tagged “Good First Issues” specifically for new contributors. You are also welcome to work on something not currently filed if you have your own idea. Feel free to contact us or leave a message if you are having trouble to find some issue to work on.
-**Abide coding and commit standards**. Any specific information necessary to know in this regard should be in the project README.
-***Commit early and ask questions. Is an issue confusing? Please comment and say so!, don't hesitate to ask questions. Not sure if you’ve got the right approach? Commit your code and we’ll give feedback as soon as possible. Commit it anyway, once you commit, open a pull request. We encourage work-in-progress commits to let us know you’re working on something and to facilitate feedback.
-**Accept feedback and finish**. Most of the pull requests will be reviewed in couple of days. Once the repository maintainer has approved your contribution, it will get merged and we will really try hard to show our respects by giving out some DTC even if you are really humble and nice person.
-# Designing
-Web and application designers are requested to be able to work directly on CSS in the project they’d be contributing to. Please follow the Coding instructions for any website or application you want to improve.
+However, it's also perfectly okay to submit pull requests for something you just want, even if it's not listed in the issues. Just understand that for this case not everything will get merged if it doesn't gather enough approval from other developers.
 
-We’re happy to provide assistance if you’re used to working in HTML and CSS but are having trouble getting started. Check out our [chat](https://discord.gg/BcTr9).
-
-# Writing
-Most written content, and especially all technical writing, will be checked and it will go to source control by our team , to improve our current documentations or create a completely new one.
-
-Identify which website or application it is in.
-Search for a quoted phrase of the content you want to change (or use the same technique to identify the folder to create a new document in).
-Edit the content via the GitHub interface and submit it as a pull request.
-# Translating
-Translation work is primarily released from time to time and you can contribute anytime from (here)[https://crowdin.com/project/dtube] . Each time we upload our translation files all the current translators in the project will receive a message.
-
-# Testing
-If you want to contribute without getting directly into the code, one of the best ways you can contribute is testing.
-
-A number of our code bases (dtube dtube dutbe) go through regular release cycles where new versions are shipped every several weeks. Testing pre-release versions is a great way to help us identify issues and create a bug free version.
+As you can see from the repos list, we try to use Javascript whenever we can to get a job done. This doesn't mean you cannot contribute in another programming language by creating a new repository.
 
 
+## Design/UX
 
-# Raising Issues
-All bug reports and feature requests are managed through [GitHub](https://github.com/dtube).
+We will not accept raw designs (.pdf, .ai) as valid submissions. If you want to contribute to DTube's design. Please directly submit css/images changes to the appropriate repositories (UI or player), so that everyone can try it out inside the real product.
 
-If you’re about to raise an issue because you’ve found a problem with Dtube, or you’d like to request a new feature, or for any other reason, please read this first.
 
-Reporting a Bug
-A bug is a demonstrable problem that is caused by the code in the repository. Good bug reports are extremely helpful - thank you! Guidelines for bug reports:
+## Documentation
 
-Identify the correct repo. See repository overview. While it’s okay if you get this wrong, it’s a big help to us if you get it right.
-Check if the issue exists. Please do a quick search to see if the issue has been reported (or fixed), including closed tickets.
-Follow the instructions - When you open an issue inside of GitHub, each repo contains a template for how to create a good bug report. Santa loves people who follow it.
-Well-specified bug reports save developers lots of time and are appreciated.
+Documentation is a good way to get started on how to contribute. From fixing typos to better organizing our documentation or adding new documentation, you will find many areas where you can contribute.
 
-### Feature Requests
-Feature requests are welcome. Before you submit one be sure to:
+*1* - Find a page that’s lacking important information or that has a spelling/grammar mistake
 
-Identify the correct repo.
-Use the Github Issues search and check the feature hasn’t already been requested. Be sure to include closed tickets.
-Consider whether it’s feasible for us to tackle this feature in the next 6-12 months. The Dtube team is currently stretched thin just adding basic functionality. If this is a nice to have rather than a need, it is probably more clutter than helpful.
-Make a strong case to convince the project’s leaders of the merits of this feature. Please provide as much detail and context as possible. This means explaining the use case and why it is likely to be common.
-### Discussion and Help
-Sometimes, you may have a problem but an issue isn’t appropriate (or you’re not sure if it’s a real issue).
+*2* -Locate the correct repository 
 
-Join our [chat](https://discord.gg/dtube) talk to others about it.
+*3* -Edit the content from Github and submit a pull request.
 
-### Contribution
-We offer DTC as a gesture of our appreciation to anyone who contributes to DTube.We will be generous , however most of this is about recognizing and appreciate the help of our community.
+You can always create new documentation that doesn't exist, if you think it will be beneficial to **Dtube**.
 
-The amount of DTube is not typically specified in advance of a contribution, though if you’re particularly motivated by this aspect you are welcome to ask.
+## Translations
+
+**Dtube** is being translated into more than 50 languages, and this is happening with the help of community members, if you speak another language come and help us speak yours.
+
+Visit our [Crowdin](https://crowdin.com/project/dtube) project and sign up.
+
+*1* - Find a language you would like to contribute to
+*2* - You can either improve existing translations , vote on new translations or contribute to new translations to your language.
+*3* - Don't hesitate to leave a message to project managers about translations in Crowdin
+*4* - When your translations are approved , the changes will be applied to one of the next patch.
+
+<hr>
+
+Thank you for helping **Dtube** grow, You are a wise person, only one more step left now, please send an email to contribution@d.tube with the relevant details for your contribution and don't forget to add your Dtube account name.
+
+We believe the power of our community and open source projects, therefore all our contributors that provide accepted pull requests will receive **DTC**, because we value your time and effort.
