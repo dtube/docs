@@ -16,6 +16,7 @@ sudo apt-get install nodejs npm
 ```
 
 ```bash
+node -v
 ## If not on node v10, install nvm
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 nvm install v10
