@@ -10,7 +10,7 @@ be a successful piece of content.
 
 ## Curation and reward mechanics
 You earn rewards by curating or getting curated, there are 3 important indicators in this game. How many people voted before and after you, time passed after published content and the amount of VT you spend to vote.
-You can generate rewards in Dtube without any time boundries, however inbetween 1 and 3.5 days after publication period you get double curation rewards which makes it most optimal time to curate video content.
+You can generate rewards in Dtube without any time boundries, however inbetween 1 and 3.5 days after publication period you get double curation rewards which makes it most optimal time to curate video content. The important part is the votes you receive after your vote if community decides its a good content and votes it before you the rewards you earn increases.
 
 #### You can claim your rewards whenever you want
 
