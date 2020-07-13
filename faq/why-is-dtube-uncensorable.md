@@ -12,9 +12,3 @@ With Avalon, content is ranked exclusively by user’s upvotes, downvotes and ta
 is automatically hidden. Adult content is tagged “NSFW” and hidden by default (an account is required to view
 this content);
 All platform moderation guidelines come from a community consensus.
-
-## How we handle DMCA ?
-
-Upon receipt of a DMCA request from the content owner or legal representative, LBRY Inc. will try its best to validate the legitimacy of the request and notify the alleged infringing party about it if there's a potential for dispute. We can take down this video from the frontend, however the content is still immutable and you will be able to access your video from P2P networks.
-
-
