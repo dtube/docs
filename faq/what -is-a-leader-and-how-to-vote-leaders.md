@@ -4,7 +4,7 @@ A Dtube leader is an important role in Avalon ecosystem, leaders run a node serv
 
 
 
-### How to vote a leader and how does it work?
+### How to vote leaders and how does it work?
 
 
 <center>![](https://i.imgur.com/iuATj3O.png)</center>
