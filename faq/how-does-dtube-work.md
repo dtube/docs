@@ -1,16 +1,15 @@
 # How does D.Tube work?
               `
 
-<h3>Using the Avalon Blockchain as a database</h3>
-
+## Using the Avalon Blockchain as a database
 
 Because we want D.Tube to be truly decentralized, we cannot have a server running a database and use it to query things. Using Avalon blockchain is a natural solution. . It is fast . It is free, anyone can use it without having to deposit some form of currency, and transactions have no fees. Who would want to pay money to upload a video, comment a video, or even upvote? Nobody. 
-
 Any video uploaded on D.Tube becomes an Avalon content, that can earn rewards also you can post your content to Steem and Hive blockchains and benefit from interoperable features of Dtube.
 
-<h3>Using [IPFS](https://ipfs.io/) as a static file storage</h3>
+ ### Using IPFS as a static file storage
 
-<center>![IPFS](img/logos/ipfs.png)</center>
+
+  <center>![](https://i.imgur.com/uDThjEm.png)</center>
 
 IPFS is a protocol that enables decentralized file storage. The principle behind it is called Distributed Hash Tables (DHT). The same principle also powers the BitTorrent network. Just like how cryptocurrency uses asymmetrical cryptography, DHT networks will hash contents in order to be able to identify a file. The hash becomes the identifier of a file, and it's as easy as re-hashing a file and making sure the hashes match to ensure the file that was sent to us is the original.
 
