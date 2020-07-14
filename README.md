@@ -9,7 +9,7 @@ Your documentation source should be written as regular Markdown files and should
 ## Table of Contents
 -  [Glossary](https://d.tube/#!/wiki/faq%5glossary)
 -  [How does Dtube Work?](https://d.tube/#!/wiki/faq%5Chow-does-dtube-work)
--  [How-do I use Dtube ?](https://d.tube/#!/wiki/faq%5Chow-do-i-use-dtube)
+-  [How do I use Dtube ?](https://d.tube/#!/wiki/faq%5Chow-do-i-use-dtube)
 -  [How does token economics work?](https://d.tube/#!/wiki/faq%5Chow-does-token-economics-work)
 -  [Where does the money come from?](https://d.tube/#!/wiki/faq%5where-does-the-money-come-from)
 -  [Why is Dtube uncensorable?](https://d.tube/#!/wiki/faq%5why-is-dtube-uncensorable)
