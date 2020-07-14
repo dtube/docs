@@ -1,4 +1,4 @@
-# How do I use D.Tube?`,
+# How do I use D.Tube? 
 
  If you want to give likes, write comments or upload your own videos, you need a Dtube account.  In order to create an account go to [account creation page](https://signup.d.tube/) and follow the registration steps.
 Once your account is open, you can login to D.Tube by entering the username and your private key and you can also login to your Hive or Steem account to benefit from interoperability features of Dtube. You can either login with Keychain or private key. Inorder to find your private key you can follow these steps.
