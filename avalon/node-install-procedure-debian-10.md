@@ -36,6 +36,13 @@ sudo apt-get install -y mongodb-org
 npm install
 ```
 
+```bash
+## Download genesis.zip
+mkdir genesis && cd genesis
+wget https://backup.d.tube/genesis.zip
+cd ..
+```
+
 ## Environment variables
 See the `scripts/start.sh` file for a list of important environment variables
 ```bash
