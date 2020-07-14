@@ -6,7 +6,7 @@
 Because we want D.Tube to be truly decentralized, we cannot have a server running a database and use it to query things. Using Avalon blockchain is a natural solution. . It is fast . It is free, anyone can use it without having to deposit some form of currency, and transactions have no fees. Who would want to pay money to upload a video, comment a video, or even upvote? Nobody. Any video uploaded on D.Tube becomes an Avalon content, that can earn rewards also you can post your content to Steem and Hive blockchains and benefit from interoperable features of Dtube.
 
 
- <h3>Using IPFS as a static file storage<h3>
+ **Using IPFS as a static file storage**
 
 
 <center>![](https://i.imgur.com/uDThjEm.png)</center>
