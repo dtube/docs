@@ -7,3 +7,6 @@ A good bug report should be clear and concise without any missing key points. An
 Keep in mind that the objective of writing the Bug report is to enable the developer to visualize the problem. He/She should clearly understand the defect from the Bug report. Remember to be break down the problem and give all the relevant information about the topic , so we can adress the issue as fast as possible.
 
 Also, keep in mind that a bug report would be preserved for future use and should be well written with the required information. Use meaningful sentences and simple words to describe your bugs. Don’t use confusing statements that might create confusion for the reviewer.
+
+## How can I suggest new features ?
+To suggest new features, it's usually better to come on the [discord server](https://discord.gg/dtube) (#suggestions channel) and discuss it with the repo maintainers before creating an issue for it on GitHub. Thank you!
