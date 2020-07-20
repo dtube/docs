@@ -4,4 +4,4 @@
 
 Every day, a fixed amount of DTC tokens are allocated to the network reward fund, commonly called the "reward pool." Each day Avalon blockchain prints new DTC's and the amount of DTC printed gets distributed to the users. You can either post or curate content to get certain amount of DTC from reward pool according to your stake. It is a stake based system and the more DTC you hold the more ability to print DTC you will have with your votes. Whenever you claim your rewards you will get your share from the reward pool. 
 
-<iframe width="560" height="315" src="https://emb.d.tube/#!/curator/83w7xxurkhx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://emb.d.tube/#!/curator/83w7xxurkhx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
