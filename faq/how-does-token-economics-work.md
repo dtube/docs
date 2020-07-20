@@ -19,4 +19,11 @@ You can generate rewards in Dtube without any time boundries, however inbetween 
 After 7 days period you can either wait your curation or video content to generate more rewards or you can click claim from rewards page, however when you click claim you won't be able to generate infinite rewards for that vote or content.
 This 7 day period is really essential for healthy economy and it gives opportunity to community to act to bad actors with downvotes. Downvotes is a great way for community to moderate content and you can delete rewards from the most recent upvoters with a downvote.
 
+## Where does the money come from ?
+
+Every day, a fixed amount of DTC tokens are allocated to the network reward fund, commonly called the "reward pool." Each day Avalon blockchain prints new DTC's and the amount of DTC printed gets distributed to the users. You can either post or curate content to get certain amount of DTC from reward pool according to your stake. It is a stake based system and the more DTC you hold the more ability to print DTC you will have with your votes. Whenever you claim your rewards you will get your share from the reward pool. 
+
+<center>![](https://i.imgur.com/u6Wyckf.png)</center>
+
+DTube also takes what is called a [beneficiary reward](/wiki/faq/does-dtube-take-beneficiary-rewards), worth 10% of the inflation.
 
