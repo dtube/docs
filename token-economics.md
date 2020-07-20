@@ -6,7 +6,11 @@ You can also burn **DTC** to **promote** your videos  all the DTC used in this p
 Promoting content will provide more exposure and that may lead to getting more rewards on the video - if it is proved to
 be a successful piece of content.
 
-<center>![](https://i.imgur.com/QUpoNy7.png)</center>
+<center>
+
+![](https://i.imgur.com/QUpoNy7.png)
+
+</center>
 
 ## Curation and reward mechanics
 You earn rewards by curating or getting curated, there are 3 important indicators in this game. How many people voted before and after you, time passed after published content and the amount of VT you spend to vote.
@@ -14,7 +18,11 @@ You can generate rewards in Dtube without any time boundries, however inbetween 
 
 #### You can claim your rewards whenever you want
 
-<center>![](https://i.imgur.com/9YZtg5K.png)</center>
+<center>
+
+![](https://i.imgur.com/9YZtg5K.png)
+
+</center>
 
 After 7 days period you can either wait your curation or video content to generate more rewards or you can click claim from rewards page, however when you click claim you won't be able to generate infinite rewards for that vote or content.
 This 7 day period is really essential for healthy economy and it gives opportunity to community to act to bad actors with downvotes. Downvotes is a great way for community to moderate content and you can delete rewards from the most recent upvoters with a downvote.
