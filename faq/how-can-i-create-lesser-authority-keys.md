@@ -17,6 +17,7 @@ Bad example of how to store a master key: sending yourself an email with the key
 It's also strongly recommended to encrypt your master key before storing it (e.g. on a USB stick).
 
 [Encrypt a file using Windows](https://support.microsoft.com/en-au/help/4026312/windows-10-how-to-encrypt-a-file)
+
 [Encrypt a file using MacOs](https://blog.macsales.com/47804-in-the-vault-how-to-encrypt-files-on-your-mac/#:~:text=Go%20to%20the%20File%20menu,the%20new%20encrypted%20disk%20image.)
 
 ### How to create a custom key
