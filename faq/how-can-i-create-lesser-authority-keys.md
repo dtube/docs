@@ -3,7 +3,7 @@ The address, which can then be used in transactions, is a shorter, representativ
 
 ## Key types on DTube
 DTube has two key types. 
-* The first one is the **master** key, which can fully control the account if you own it. It can do any type of transaction, including creating and deleting new keys, or changing the master key.
+* The first one is the **master** key, which can fully control the account. It can do any type of transaction, including creating and deleting new keys, or changing the master key.
 * Second one is called **custom** keys. They can be created by the master key, and are granted lower permissions based on transaction types. You can for example create a key, which is only permitted to vote, follow, or comment. This key would therefore not be able to use the DTCs in your account, and you not put your funds at risk if it got hacked/stolen.
 
 ### How to safely store a master key
