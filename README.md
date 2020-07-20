@@ -8,7 +8,7 @@ Your documentation source should be written as regular Markdown files and should
 
 ## Table of Contents
 -  [Glossary](/wiki/faq/glossary)
--  [How does Dtube Work?](https://d.tube/#!/wiki/faq%5Chow-does-dtube-work)
+-  [How does Dtube Work?](/wiki/faq/how-does-dtube-work)
 -  [How do I use Dtube ?](https://d.tube/#!/wiki/faq%5Chow-do-i-use-dtube)
 -  [How does token economics work?](https://d.tube/#!/wiki/faq%5Chow-does-token-economics-work)
 -  [Where does the money come from?](https://d.tube/#!/wiki/faq%5Cwhere-does-the-money-come-from)
@@ -20,5 +20,5 @@ Your documentation source should be written as regular Markdown files and should
 -  [I lost my key what can I do?](https://d.tube/#!/wiki/faq%5Ci-lost-my-key-what-can-i-do)
 -  [How can I create lesser authority keys?](https://d.tube/#!/wiki/faq%5Chow-can-i-create-lesser-authority-keys)
 -  [How can I add cover image and avatar?](https://d.tube/#!/wiki/faq%5Chow-can-i-add-cover-image-and-avatar)
--  [How can I report a bug?](https://d.tube/#!/wiki/faq%5Chow-can-i-report-a-bug)
+-  [How can I give feedback?](https://d.tube/#!/wiki/faq/giving-feedback)
 -  [What is a leader and how to vote leaders?](https://d.tube/#!/wiki/faq%5Cwhat-is-a-leader-and-how-to-vote-leaders)
