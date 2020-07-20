@@ -6,7 +6,7 @@ The public key is what will be linked to your username in the public blockchain 
 The private key is the part you are supposed to keep private to yourself. It's the one you will use for login and that permits you to do any operation on the chain.
 
 ### A private key is not like a password
-Unlike your password on facebook or gmail, a private key can NOT be recovered if you lose it.
+Unlike your password on facebook or gmail, a private key can NOT be recovered if you lose it. If you lose your master key, you will be locked out of your account ownership forever, and will need to create a new username. Please **do not lose your keys**
 
 ## Master Key vs Custom Keys
 DTube accounts can have multiple keys associated to it: 
