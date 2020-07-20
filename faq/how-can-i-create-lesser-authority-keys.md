@@ -1,10 +1,14 @@
-## Definition of cryptographic keys
-The address, which can then be used in transactions, is a shorter, representative form of the public key. The private key is what grants a cryptocurrency user ownership of the funds and ability to do certain actions on the blockchain. In order to be more secure we highly reccomend creating lesser authority keys for day to day actions and store your private key somewhere safe.
+## Public Key vs Private Key
+When adding a new key to DTube, you will be shown a public key, and a private key.
 
-## Key types on DTube
+The public key is what will be linked to your username in the public blockchain data. Everyone will be able to see your public key. In other blockchains like Bitcoin, you would use the Public key as the destination address for a monetary transfer, however on d.tube, everyone has a username, so we use the username for monetary transfers instead.
+
+The private key is the part you are supposed to keep private to yourself. It's the one you will use for login and that permits you to do any operation on the chain.
+
+## Master Key vs Custom Keys
 DTube has two key types. 
-* The first one is the **master** key, which can fully control the account. It can do any type of transaction, including creating and deleting new keys, or changing the master key.
-* Second one is called **custom** keys. They can be created by the master key, and are granted lower permissions based on transaction types. You can for example create a key, which is only permitted to vote, follow, or comment. This key would therefore not be able to use the DTCs in your account, and you not put your funds at risk if it got hacked/stolen.
+* The first one is the **master** key, which can fully control the account. It can do any type of transaction, including creating and deleting new keys, or changing the master key. Your DTube account can only have one master key.
+* Second one is called **custom** keys. They can be created by the master key, and are granted lower permissions based on transaction types. You can for example create a key, which is only permitted to vote, follow, or comment. This key would therefore not be able to use the DTCs in your account, and you not put your funds at risk if it got hacked/stolen. Your account can have many customs keys.
 
 ### How to safely store a master key
 The master key is the most important one. You need to store it safely and redundantly.
