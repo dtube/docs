@@ -1,6 +1,6 @@
 ## How does token economy works ?
 
-**DTC** is a utility token created to serve best to video content creators , you can use it to post, vote or tag and promote videos on Dtube platform. You can hold your DTC to generate **VP** (Voting Poker). Each unit of DTC produces for its holder +1 unit of VP per hour
+**DTC** is a utility token created to serve best to video content creators , you can use it to post, vote or tag and promote videos on Dtube platform. You can hold your DTC to generate **VP** (Voting Power). Each unit of DTC produces for its holder +1 unit of VP per hour
 You can spend your VT by tagging some content or use it to curate others content to get **DTC** from curation rewards, the more VP spent on these actions will generate more and it will have more impact on content exposure
 You can also burn **DTC** to **promote** your videos  all the DTC used in this process will be burned which means it will be deleted from the circulating supply and it will increase the scarcity of DTC.
 Promoting content will provide more exposure and that may lead to getting more rewards on the video - if it is proved to
