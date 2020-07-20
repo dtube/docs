@@ -7,7 +7,7 @@ If you think a page is lacking important information or there are some mistakes 
 Your documentation source should be written as regular Markdown files and should be easily convertable to HTML. If you want to contribute on any file to improve it please fork it first and send a pull request.
 
 ## Table of Contents
--  [Glossary](/faq/glossary.md)
+-  [Glossary](/wiki/faq/glossary.md)
 -  [How does Dtube Work?](https://d.tube/#!/wiki/faq%5Chow-does-dtube-work)
 -  [How do I use Dtube ?](https://d.tube/#!/wiki/faq%5Chow-do-i-use-dtube)
 -  [How does token economics work?](https://d.tube/#!/wiki/faq%5Chow-does-token-economics-work)
