@@ -8,13 +8,6 @@ The private key is the part you are supposed to keep private to yourself. It's t
 ### A private key is not like a password
 Unlike your password on facebook or gmail, a private key can NOT be recovered if you lose it.
 
-### How to safely store a private key
-The master key is the most important one. You need to store it safely and redundantly.
-
-Good examples of how to store a master key, can be a USB stick, a piece of paper, or a device that does not connect to internet.
-
-Bad example of how to store a master key: sending yourself an email with the key in plain text, cloud storage solutions (google drive, iCloud), the desktop of your family PC.
-
 ## Master Key vs Custom Keys
 DTube accounts can have multiple keys associated to it: 
 * The first one is the **master** key, which can fully control the account. It can do any type of transaction, including creating and deleting new keys, or changing the master key. Your DTube account always has only one master key.
@@ -46,6 +39,13 @@ After that you need to choose which transaction types the key will be allowed to
 * USER_JSON
 * FOLLOW
 * UNFOLLOW
+
+### How to safely store your private keys
+The master key is the most important one, and should be stored redundantly (with at least 1 backup). Any custom key with access to your funds should also be safe, but doesn't need redundancy as your master key would always allow you to reset your custom key to a new one if ever lost.
+
+Good examples of safe storage, can be a USB stick, a piece of paper, or a device that does not connect to internet.
+
+Bad example of how to store a private key: sending yourself an email with the key in plain text, cloud storage solutions (google drive, iCloud), the desktop of your family PC.
 
 ### Encrypting your master key
 It's also strongly recommended to encrypt your master key before storing it (e.g. on a USB stick).
