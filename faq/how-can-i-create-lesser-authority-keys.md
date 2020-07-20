@@ -5,24 +5,20 @@ The public key is what will be linked to your username in the public blockchain 
 
 The private key is the part you are supposed to keep private to yourself. It's the one you will use for login and that permits you to do any operation on the chain.
 
-## Master Key vs Custom Keys
-DTube has two key types. 
-* The first one is the **master** key, which can fully control the account. It can do any type of transaction, including creating and deleting new keys, or changing the master key. Your DTube account can only have one master key.
-* Second one is called **custom** keys. They can be created by the master key, and are granted lower permissions based on transaction types. You can for example create a key, which is only permitted to vote, follow, or comment. This key would therefore not be able to use the DTCs in your account, and you not put your funds at risk if it got hacked/stolen. Your account can have many customs keys.
+### A private key is not like a password
+Unlike your password on facebook or gmail, a private key can NOT be recovered if you lose it.
 
-### How to safely store a master key
+### How to safely store a private key
 The master key is the most important one. You need to store it safely and redundantly.
 
 Good examples of how to store a master key, can be a USB stick, a piece of paper, or a device that does not connect to internet.
 
 Bad example of how to store a master key: sending yourself an email with the key in plain text, cloud storage solutions (google drive, iCloud), the desktop of your family PC.
 
-### Encrypting your key
-It's also strongly recommended to encrypt your master key before storing it (e.g. on a USB stick).
-
-[Encrypt a file using Windows](https://support.microsoft.com/en-au/help/4026312/windows-10-how-to-encrypt-a-file)
-
-[Encrypt a file using MacOs](https://blog.macsales.com/47804-in-the-vault-how-to-encrypt-files-on-your-mac/#:~:text=Go%20to%20the%20File%20menu,the%20new%20encrypted%20disk%20image.)
+## Master Key vs Custom Keys
+DTube accounts can have multiple keys associated to it: 
+* The first one is the **master** key, which can fully control the account. It can do any type of transaction, including creating and deleting new keys, or changing the master key. Your DTube account always has only one master key.
+* Second one is called **custom** keys. They can be created by the master key, and are granted lower permissions based on transaction types. You can for example create a key, which is only permitted to vote, follow, or comment. This key would therefore not be able to use the DTCs in your account, and you not put your funds at risk if it got hacked/stolen. Your account can have many customs keys.
 
 ### How to create a custom key
 
@@ -50,6 +46,13 @@ After that you need to choose which transaction types the key will be allowed to
 * USER_JSON
 * FOLLOW
 * UNFOLLOW
+
+### Encrypting your master key
+It's also strongly recommended to encrypt your master key before storing it (e.g. on a USB stick).
+
+[Encrypt a file using Windows](https://support.microsoft.com/en-au/help/4026312/windows-10-how-to-encrypt-a-file)
+
+[Encrypt a file using MacOs](https://blog.macsales.com/47804-in-the-vault-how-to-encrypt-files-on-your-mac/#:~:text=Go%20to%20the%20File%20menu,the%20new%20encrypted%20disk%20image.)
 
 ### Changing my master key
 This one is also in My Channel -> Keys. Be extra careful when using this one, and make sure that you properly saved the key before changing it. There will be no way to go back to the old master key. If you current master key has no reason to be compromised, there is little reason to change it.
