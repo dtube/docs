@@ -6,7 +6,7 @@
 -  [Where does the money come from?](/wiki/faq/where-does-the-money-come-from)
 -  [Why is Dtube uncensorable?](/wiki/faq/why-is-dtube-uncensorable)
 -  [Does Dtube take beneficiary rewards?](/wiki/faq/does-dtube-take-beneficiary-rewards)
--  [How do videos get ranked?](/wiki/faq/Chow-do-videos-get-ranked)
+-  [How do videos get ranked?](/wiki/faq/how-do-videos-get-ranked)
 -  [Can I change my account name?](/wiki/faq/can-i-change-my-account-name)
 -  [Can I publish nsfw content?](/wiki/faq/can-i-publish-nsfw-content)
 -  [I lost my key what can I do?](/wiki/faq/i-lost-my-key-what-can-i-do)
