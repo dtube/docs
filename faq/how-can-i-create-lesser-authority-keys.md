@@ -4,7 +4,7 @@ In order a create a custom key, you need to enter your **channel** then go into 
 
 <center>
 
-![](https://i.imgur.com/aJTzTX3.png)
+![](https://i.imgur.com/wT9WoWt.png)
 
 </center>
 
