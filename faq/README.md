@@ -2,7 +2,7 @@
 -  [Glossary](/wiki/faq/glossary)
 -  [How does Dtube Work?](/wiki/faq/how-does-dtube-work)
 -  [How do I use Dtube ?](/wiki/faq/how-do-i-use-dtube)
--  [How does token economics work?](/wiki/faq/token-economics)
+-  [How does token economy works?](/wiki/faq/how-does-token-economy-works)
 -  [Where does the money come from?](/wiki/faq/where-does-the-money-come-from)
 -  [Why is Dtube uncensorable?](/wiki/faq/why-is-dtube-uncensorable)
 -  [Does Dtube take beneficiary rewards?](/wiki/faq/does-dtube-take-beneficiary-rewards)
