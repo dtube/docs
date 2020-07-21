@@ -3,7 +3,7 @@ Bug reporting is an important aspect of Software Testing. An effective Bug repor
 and leave your ideas about problems with creating an issue.
 
 ### How to report a bug effectively ?
-A good bug report should be clear and concise without any missing key points. First you need to elloborate the bug you faced and please try to give any information that might help us to reproduce the bug. You should always add screenshots in the [issues](https://github.com/dtube/dtube/issues) if you think it will help us to understand the bug better. Remember with more information we can solve the issues faster.
+A good bug report should be clear and concise without any missing key points. First you need to elloborate the bug you faced and please try to give any information that might help us to reproduce the bug. You should always add links, screenshots, or link to the problematic videos in the [issues](https://github.com/dtube/dtube/issues) if you think it will help us to understand the bug better. Remember with more information we can solve the issues faster.
 
 
 ## How can I suggest new features ?
