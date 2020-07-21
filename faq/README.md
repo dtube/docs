@@ -8,7 +8,7 @@
 -  [Does Dtube take beneficiary rewards?](/wiki/faq/does-dtube-take-beneficiary-rewards)
 -  [How do videos get ranked?](/wiki/faq/Chow-do-videos-get-ranked)
 -  [Can I change my account name?](/wiki/faq/can-i-change-my-account-name)
--  [Can I publish nsfw/porn  content?](/wiki/faq/can-i-publish-nsfw-porn-content)
+-  [Can I publish nsfw content?](/wiki/faq/can-i-publish-nsfw-content)
 -  [I lost my key what can I do?](/wiki/faq/i-lost-my-key-what-can-i-do)
 -  [How can I create lesser authority keys?](/wiki/faq/how-can-i-create-lesser-authority-keys)
 -  [How can I add cover image and avatar?](/wiki/faq/how-can-i-add-cover-image-and-avatar)
