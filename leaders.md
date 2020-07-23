@@ -1,14 +1,21 @@
 ## What is a leader?
 
-A Dtube leader is an important role in Avalon ecosystem, leaders run a node server and their primary objective to generate blocks and add the data to the blockchain also they need to store the entire blockchain data and they are part of the consensus.
+Leaders are the backbone of the DTube project. Leaders run the node server that powers the blockchain where all the dtube accounts exist. Their primary objective is  to keep producing blocks in a continuous manner (1 block / 3 sec) and serve the data of the blockchain to the users (through the Avalon API). They store the entire blockchain data and commonly produce blocks through a consensus mechanism.
 
+### How to vote leaders
 
+<center>
 
-### How to vote leaders and how does it work?
+![](https://i.imgur.com/iuATj3O.png)
 
+</center>
 
-<center>![](https://i.imgur.com/iuATj3O.png)</center>
+You can vote a leader you desire from **Leaders** segment and you will see an [election](https://d.tube/#!/election) page. All you have to do is search the leader you want to vote from list or if they are not on the list you can vote by typing their name down bottom.
 
-You can vote a leader you desire from **Leaders** segment and you will see an [election](https://d.tube/#!/election) page. All you have to do is search the leader you want to vote from list or if they are not on the list you can vote by typing their name down bottom. The vote you use will be as powerful as your stake. Leader is powerful role in the ecosystem and you can think them as your repsentitives.
+You can vote for **up to 5 leaders**, however voting for multiple leaders will spread your stake between them.
 
-You can become a leader by running an Avalon node, publishing the nodes connection details and receving enough leader votes to put you into the most highly voted users.
+### How to become a leader
+You can become a leader by running an [Avalon](https://github.com/dtube/avalon) node, and receving enough leader votes to put you into the most highly voted users. Feel free to join the #leaders-candidates on the discord to communicate with other established leaders and get started faster!
+
+### Do leaders earn anything?
+Yes, leaders currently earn 0.01 DTC for each produced block, as well as +500 VP straight into their account power.
