@@ -14,3 +14,4 @@
 -  [How can I add cover image and avatar?](/wiki/faq/how-can-i-add-cover-image-and-avatar)
 -  [How can I give feedback?](/wiki/faq/giving-feedback)
 -  [What is a leader and how to vote leaders?](/wiki/leaders)
+-  [How can I embed a Dtube video on my own Website?](wiki/faq/how-can-i-embed-a-dtube-video-on-my-own-website)
