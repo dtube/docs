@@ -1,4 +1,4 @@
-### How can I embed a Dtube video on my own Website ?
+### How can I embed a Dtube video on my own Website?
 
 Embed is a snippet of code that you can use on your website to display videos. It will pull the video from the original source and you can display it on your website without hosting it.
 
