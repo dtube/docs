@@ -72,14 +72,14 @@ Because we want D.Tube to be truly decentralized, we cannot have a server runnin
 <h2>Using decentralized File Storage</h2>
 
 <div class="ui grid">
-  <div class="three wide column">
-    <a href="wiki/ipfs"><img src="https://i.imgur.com/WMrVTct.png" alt="IPFS" style="width:10%"></a>
+  <div class="five wide column">
+    <a href="wiki/ipfs"><img src="https://i.imgur.com/WMrVTct.png" alt="IPFS"></a>
   </div>
-  <div class="three wide column">
-    <img src="https://i.imgur.com/JzWTima.png" alt="BTFS" style="width:15%">
+  <div class="five wide column">
+    <img src="https://i.imgur.com/JzWTima.png" alt="BTFS">
   </div>
-  <div class="three wide column">
-    <img src="https://i.imgur.com/Pf9ss4M.png" alt="SKYNET" style="width:15%">
+  <div class="five wide column">
+    <img src="https://i.imgur.com/Pf9ss4M.png" alt="SKYNET">
   </div>
 </div>
 
