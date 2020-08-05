@@ -73,7 +73,7 @@ Because we want D.Tube to be truly decentralized, we cannot have a server runnin
 
 <div class="row">
   <div class="column">
-    <img src="https://i.imgur.com/WMrVTct.png" alt="IPFS" style="width:10%">
+    <a href="wiki/ipfs"><img src="https://i.imgur.com/WMrVTct.png" alt="IPFS" style="width:10%"></a>
   </div>
   <div class="column">
     <img src="https://i.imgur.com/JzWTima.png" alt="BTFS" style="width:15%">
