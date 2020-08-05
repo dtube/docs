@@ -41,20 +41,20 @@ Because we want D.Tube to be truly decentralized, we cannot have a server runnin
 
 <div class="row">
   <div class="column">
-    <img src="https://i.imgur.com/WMrVTct.png" alt="IPFS" style="width:15%">
+    <img src="https://i.imgur.com/WMrVTct.png" alt="IPFS" style="width:10%">
   </div>
   <div class="column">
-    <img src="https://i.imgur.com/JzWTima.png" alt="BTFS" style="width:25%">
+    <img src="https://i.imgur.com/JzWTima.png" alt="BTFS" style="width:15%">
   </div>
   <div class="column">
-    <img src="https://i.imgur.com/Pf9ss4M.png" alt="SKYNET" style="width:25%">
+    <img src="https://i.imgur.com/Pf9ss4M.png" alt="SKYNET" style="width:15%">
   </div>
 </div>
 
 </body>
 </html>
 
-### Using decentralized File Storage (images / videos)
+
 
 
 #### 3rd parties
