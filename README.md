@@ -19,21 +19,46 @@
 -  [How can I embed a Dtube video on my own website?](wiki/faq/how-can-i-embed-a-dtube-video-on-my-own-website)
 -  [How does burning mechanism works on Dtube?](wiki/faq/how-does-token-burning-mechanism-work-on-dtube)
 
-<center>
-
-![](https://i.imgur.com/Aqymyu1.png)
-
-</center>
+<center>![](https://i.imgur.com/Aqymyu1.png)</center>
 
 ## Vision for DTube
 Dtube aims to reinvent how information and revenue is shared in the video industry. We want a platform with freedom of speech: no censorship. Everyone should be able to share and access information. We want all content creators to be treated equally and fairly and make content accessible for everyone around the world.
+
+</p>
+<p><div class="pull-left">
+
+![circle-cropped (4).png](https://cdn.steemitimages.com/DQmWGmVoGErHc3P2UUfreZeozs2EcGJWJ4itxjJMAaakdXG/circle-cropped%20(4).png)
+
+</div>
+<p>
+
 ### No censorship
 In Dtube we can't tamper with your content or suspend your account. Decentralized features of Dtube makes your content  completely immutable and censorship resistant and your account is an asset which you truely own. We are strong advocate of free speech and digital freedom, everyone should be able to share and reach the information easily without having any problems. 
+
+</p>
+<p><div class="pull-left">
+
+![circle-cropped (5).png](https://cdn.steemitimages.com/DQmWsJy1QLku9imD7RwgrEXVNfkSs26S7NzmRHhQXX7X72K/circle-cropped%20(5).png)
+
+</div>
+<p>
+
 ### Crypto rewards
 Dtube is a blockchain based social media and you can generate crypto rewards by engaging, curating and creating content.
 
-### No hidden algorithms (fairness)
+<br>
+
+</p>
+<p><div class="pull-left">
+
+![circle-cropped (3).png](https://cdn.steemitimages.com/DQmREy6UUAFchv73rGN3paUDJ5LzPSgqLTZTqWxJB4xL4Lm/circle-cropped%20(3).png)
+
+</div>
+<p>
+
+### No hidden algorithms a fair platform
 On DTube, there are no hidden algorithms controlling the visibility or monetization of certain videos over others.Content [ranking](wiki/video-rankings) is decided by community and  all of DTube's data is public, and can be analyzed by anyone.
+
 ## How does it work?
 
 ### Using Blockchain as a database
@@ -44,7 +69,7 @@ Because we want D.Tube to be truly decentralized, we cannot have a server runnin
 </head>
 <body>
 
-<h2>Using decentralized File Storage (images / videos)</h2>
+<h2>Using decentralized File Storage</h2>
 
 <div class="row">
   <div class="column">
