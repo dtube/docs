@@ -32,19 +32,49 @@ On DTube, there are no hidden algorithms controlling the visibility or monetizat
 ### Using Blockchain as a database
 Because we want D.Tube to be truly decentralized, we cannot have a server running a database and use it to query things. Using Avalon blockchain is a natural solution. It is fast . It is free, anyone can use it without having to deposit some form of currency, and transactions have no fees. Who would want to pay money to upload a video, comment a video, or even upvote? Any video uploaded on D.Tube becomes an Avalon content, that can earn rewards also you can post your content to Steem and Hive blockchains and benefit from interoperable features of Dtube.
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<h2>Using decentralized File Storage (images / videos)</h2>
+
+<div class="row">
+  <div class="column">
+    <img src="https://i.imgur.com/WMrVTct.png" alt="IPFS" style="width:15%">
+  </div>
+  <div class="column">
+    <img src="https://i.imgur.com/JzWTima.png" alt="BTFS" style="width:25%">
+  </div>
+  <div class="column">
+    <img src="https://i.imgur.com/Pf9ss4M.png" alt="SKYNET" style="width:25%">
+  </div>
+</div>
+
+</body>
+</html>
 
 ### Using decentralized File Storage (images / videos)
 
-#### IPFS
-[IPFS](https://ipfs.io/) is a protocol that enables decentralized file storage. The principle behind it is called Distributed Hash Tables (DHT). The same principle also powers the BitTorrent network. Just like how cryptocurrency uses asymmetrical cryptography, DHT networks will hash contents in order to be able to identify a file. The hash becomes the identifier of a file, and it's as easy as re-hashing a file and making sure the hashes match to ensure the file that was sent to us is the original.
-#### BTFS
-[BTFS](https://www.bittorrent.com/tr/token/bittorrent-file-system/) is similar to IPFS in the way it works technically for file sharing, but BTFS is tokenized and becomes a marketplace for file storage.
-By running a BTFS Host and seeding DTube videos, you can earn BTT. Or you can spend BTT to host your videos on BTFS Soter
-
-#### Skynet
-[Skynet](https://siasky.net/) is a next-gen decentralized protocol focused on putting the users in control of their content. Content is identified by a Skylink, which can be used to verify the file hasn't been changed since the original upload, making your content trustable.
-Anyone running a Skynet node can access any file on Skynet. There are multiple portals around the world which enable users to access content without downloading special software.
-You can use Sia-UI to easily upload content to Skynet from a desktop or laptop. Unlike other solutions, once you have uploaded a file your computer does not need to remain online for the file to be available continuously. The Sia network will seed the file for you.
 
 #### 3rd parties
 Third party video providers is a great way to ensure that your video is watchable at highest qualities. In Dtube you can directly share your videos If you want to share a non-original video on DTube, this is the recommended way, as it will reward the original creator registered on these third party websites. Currently can use  Youtube, Instagram, Facebook, Twitch, Dailymotion, Vimeo and Liveleak for this feature.
