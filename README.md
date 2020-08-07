@@ -99,6 +99,23 @@ DTube is full open-source software. We want to make it as easy as possible for D
 ### Using DTube logo on your own project
 Dtube logo is an open source logo and you can use it on your website or your own project for any purpose. All you have to do is just access to the [mediakit](https://github.com/dtube/about/tree/master/img/kit) 
 ### Press
+<div class="ui grid">
+  <div class="five wide column">
+    <a href="https://www.wired.com/story/the-decentralized-internet-is-here-with-some-glitches/%22%3E<img src="https://i.imgur.com/LwtBFIs.png" alt="WIRED"></a>
+  </div>
+  <div class="five wide column">
+    <a href="https://www.bloomberg.com/news/articles/2018-04-10/youtube-and-facebook-are-losing-creators-to-blockchain-powered-rivals%22%3E<img src="https://i.imgur.com/yHMsTlL.png" alt="Bloomberg">
+  </div>
+  <div class="five wide column">
+    <a href="https://www.polygon.com/2018/3/7/17087668/steemit-dtube-bitchute-youtube-purge%22%3E<img src="https://i.imgur.com/ZiYOEOp.png" alt="Polygon">
+    </div>
+  <div class="five wide column">
+    <a href="https://www.theguardian.com/technology/2018/sep/08/decentralisation-next-big-step-for-the-world-wide-web-dweb-data-internet-censorship-brewster-kahle?page=with%3Aimg-2%22%3E<img src="https://i.imgur.com/BTea4Nv.png" alt="Theguardian">
+  </div>
+</div>
+
+</body>
+</html>
 
 ### Who is behind DTube?
 
