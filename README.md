@@ -90,13 +90,13 @@ Dtube logo is an open source logo and you can use it on your website or your own
     <a href="https://www.wired.com/story/the-decentralized-internet-is-here-with-some-glitches/"><img src="https://i.imgur.com/LwtBFIs.png" alt="WIRED"></a>
   </div>
   <div class="five wide column">
-    <a href="https://www.bloomberg.com/news/articles/2018-04-10/youtube-and-facebook-are-losing-creators-to-blockchain-powered-rivals"><img src="https://i.imgur.com/yHMsTlL.png" alt="Bloomberg">
+    <a href="https://www.bloomberg.com/news/articles/2018-04-10/youtube-and-facebook-are-losing-creators-to-blockchain-powered-rivals"><img src="https://i.imgur.com/yHMsTlL.png" alt="Bloomberg"></a>
   </div>
   <div class="five wide column">
-    <a href="https://www.polygon.com/2018/3/7/17087668/steemit-dtube-bitchute-youtube-purge"><img src="https://i.imgur.com/ZiYOEOp.png" alt="Polygon">
+    <a href="https://www.polygon.com/2018/3/7/17087668/steemit-dtube-bitchute-youtube-purge"><img src="https://i.imgur.com/ZiYOEOp.png" alt="Polygon"></a>
     </div>
   <div class="five wide column">
-    <a href="https://www.theguardian.com/technology/2018/sep/08/decentralisation-next-big-step-for-the-world-wide-web-dweb-data-internet-censorship-brewster-kahle"><img src="https://i.imgur.com/BTea4Nv.png" alt="Theguardian">
+    <a href="https://www.theguardian.com/technology/2018/sep/08/decentralisation-next-big-step-for-the-world-wide-web-dweb-data-internet-censorship-brewster-kahle"><img src="https://i.imgur.com/BTea4Nv.png" alt="Theguardian"></a>
   </div>
 </div>
 
