@@ -77,10 +77,10 @@ Because we want D.Tube to be truly decentralized, we cannot have a server runnin
     <a href="wiki/ipfs"><img src="https://i.imgur.com/WMrVTct.png" alt="IPFS"></a>
   </div>
   <div class="five wide column">
-    <img src="https://i.imgur.com/JzWTima.png" alt="BTFS">
+   <a href="wiki/btfs"> <img src="https://i.imgur.com/JzWTima.png" alt="BTFS"></a>
   </div>
   <div class="five wide column">
-    <img src="https://i.imgur.com/Pf9ss4M.png" alt="SKYNET">
+   <a href="wiki/skynet"> <img src="https://i.imgur.com/Pf9ss4M.png" alt="SKYNET"></a>
   </div>
 </div>
 
@@ -99,6 +99,7 @@ DTube is full open-source software. We want to make it as easy as possible for D
 ### Using DTube logo on your own project
 Dtube logo is an open source logo and you can use it on your website or your own project for any purpose. All you have to do is just access to the [mediakit](https://github.com/dtube/about/tree/master/img/kit) 
 ### Press
+
 <div class="ui grid">
   <div class="five wide column">
     <a href="https://www.wired.com/story/the-decentralized-internet-is-here-with-some-glitches/%22%3E<img src="https://i.imgur.com/LwtBFIs.png" alt="WIRED"></a>
