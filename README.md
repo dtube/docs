@@ -94,11 +94,11 @@ Dtube logo is an open source logo and you can use it on your website or your own
   </div>
   <div class="five wide column">
     <a href="https://www.polygon.com/2018/3/7/17087668/steemit-dtube-bitchute-youtube-purge"><img src="https://i.imgur.com/ZiYOEOp.png" alt="Polygon"></a>
-    </div>
-  <div class="five wide column">
-    <a href="https://www.theguardian.com/technology/2018/sep/08/decentralisation-next-big-step-for-the-world-wide-web-dweb-data-internet-censorship-brewster-kahle"><img src="https://i.imgur.com/BTea4Nv.png" alt="Theguardian"></a>
   </div>
 </div>
+<center>
+<a href="https://www.theguardian.com/technology/2018/sep/08/decentralisation-next-big-step-for-the-world-wide-web-dweb-data-internet-censorship-brewster-kahle"><img src="https://i.imgur.com/BTea4Nv.png" alt="Theguardian"></a>
+</center>
 
 ### Who is behind DTube?
 
