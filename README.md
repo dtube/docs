@@ -119,7 +119,9 @@ Dtube logo is an open source logo and you can use it on your website or your own
 
 ### Who is behind DTube?
 
-<center>![](https://i.imgur.com/0mVPHGF.png)</center>
+<center>
+![](https://i.imgur.com/0mVPHGF.png)
+</center>
 
 Dtube is an open source project and contributions of the community are deeply appreciated, We consider every single contributor like curators, developers, translators and community members as team member.
 
