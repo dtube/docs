@@ -19,15 +19,25 @@
 -  [How can I embed a Dtube video on my own website?](wiki/faq/how-can-i-embed-a-dtube-video-on-my-own-website)
 -  [How does burning mechanism works on Dtube?](wiki/faq/how-does-token-burning-mechanism-work-on-dtube)
 
-
-<center>
-
-<img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/dtubeabout.png" alt="Dtubelogoi">
-
-</center>
-
+<div class="ui grid">
+  <div class="four wide column">
+    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/dtubeabout.png" alt="Dtubelogoi">
+    <br />
+    
 ## Vision for DTube
 Dtube aims to reinvent how information and revenue is shared in the video industry. We want a platform with freedom of speech: no censorship. Everyone should be able to share and access information. We want all content creators to be treated equally and fairly and make content accessible for everyone around the world.
+
+  </div>
+  <div class="four wide column">
+
+  </div>
+  <div class="four wide column">
+
+  </div>
+  <div class="four wide column">
+
+  </div>
+</div>
 
 <p><div>
 
