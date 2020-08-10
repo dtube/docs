@@ -21,21 +21,28 @@
 
 <div class="ui grid">
   <div class="four wide column">
-    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/dtubeabout.png" alt="Dtubelogoi">
+    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/censorshipresistant.png" alt="Dtubelogoi" style="width:100%">
     <br />
-    
-## Vision for DTube
-Dtube aims to reinvent how information and revenue is shared in the video industry. We want a platform with freedom of speech: no censorship. Everyone should be able to share and access information. We want all content creators to be treated equally and fairly and make content accessible for everyone around the world.
-
+    <h3>Vision for DTube</h3>
+    <p>Dtube aims to reinvent how information and revenue is shared in the video industry. We want a platform with freedom of speech: no censorship. Everyone should be  able to share and access information. We want all content creators to be treated equally and fairly and make content accessible for everyone around the world.</p>
   </div>
   <div class="four wide column">
-
+    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/censorshipresistant.png" alt="Dtubelogoi" style="width:100%">
+    <br />
+    <h3>Vision for DTube</h3>
+    <p>Dtube aims to reinvent how information and revenue is shared in the video industry. We want a platform with freedom of speech: no censorship. Everyone should be     able to share and access information. We want all content creators to be treated equally and fairly and make content accessible for everyone around the world.</p>
   </div>
   <div class="four wide column">
-
+    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/censorshipresistant.png" alt="Dtubelogoi" style="width:100%">
+    <br />
+    <h3>Vision for DTube</h3>
+    <p>Dtube aims to reinvent how information and revenue is shared in the video industry. We want a platform with freedom of speech: no censorship. Everyone should be     able to share and access information. We want all content creators to be treated equally and fairly and make content accessible for everyone around the world.</p>
   </div>
   <div class="four wide column">
-
+    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/censorshipresistant.png" alt="Dtubelogoi" style="width:100%">
+    <br />
+    <h3>Vision for DTube</h3>
+    <p>Dtube aims to reinvent how information and revenue is shared in the video industry. We want a platform with freedom of speech: no censorship. Everyone should be     able to share and access information. We want all content creators to be treated equally and fairly and make content accessible for everyone around the world.</p>
   </div>
 </div>
 
