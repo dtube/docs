@@ -70,7 +70,7 @@ Because we want D.Tube to be truly decentralized, we cannot have a server runnin
     <a href="wiki/ipfs"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/IPFS%201.png" alt="IPFS"></a>
   </div>
   <div class="five wide column">
-   <a href="wiki/btfs"> <img src="https://github.com/dtube/docs/blob/master/imgs/BTFS%201.png" alt="BTFS"></a>
+   <a href="wiki/btfs"> <img src="hhttps://raw.githubusercontent.com/dtube/docs/master/imgs/BTFS_2.png" alt="BTFS"></a>
   </div>
   <div class="five wide column">
    <a href="wiki/skynet"> <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/skynet.png" alt="SKYNET"></a>
