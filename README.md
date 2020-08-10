@@ -22,7 +22,7 @@
 
 <center>
 
-https://raw.githubusercontent.com/dtube/docs/master/imgs/dtubeabout.png
+<img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/dtubeabout.png" alt="Dtubelogoi">
 
 </center>
 
@@ -31,7 +31,7 @@ Dtube aims to reinvent how information and revenue is shared in the video indust
 
 <p><div>
 
-https://raw.githubusercontent.com/dtube/docs/master/imgs/censorshipresistant.png
+<img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/censorshipresistant.png" alt="censorship">
 
 </div></p>
 
@@ -40,7 +40,9 @@ In Dtube we can't tamper with your content or suspend your account. Decentralize
 
 <p><div>
 
-https://raw.githubusercontent.com/dtube/docs/master/imgs/cryptoincentive.png
+<img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/cryptoincentive.png" alt="cryptoincome">
+
+
 
 </div></p>
 
@@ -49,7 +51,7 @@ Dtube is a blockchain based social media and you can generate crypto rewards by 
 
 <p><div>
 
-https://raw.githubusercontent.com/dtube/docs/master/imgs/fairplatform.png
+<img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/fairplatform.png" alt="fairplatform">
 
 </div></p>
 
@@ -93,11 +95,11 @@ Dtube logo is an open source logo and you can use it on your website or your own
     <a href="https://www.bloomberg.com/news/articles/2018-04-10/youtube-and-facebook-are-losing-creators-to-blockchain-powered-rivals"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/bloomberg.png" alt="Bloomberg"></a>
   </div>
   <div class="five wide column">
-    <a href="https://www.polygon.com/2018/3/7/17087668/steemit-dtube-bitchute-youtube-purge"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/Polygon_logo.svg.png" alt="Polygon"></a>
+    <a href="https://www.theguardian.com/technology/2018/sep/08/decentralisation-next-big-step-for-the-world-wide-web-dweb-data-internet-censorship-brewster-kahle"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/Polygon_logo.svg.png" alt="Theguardian"></a>
   </div>
 </div>
 <center>
-<a href="https://www.theguardian.com/technology/2018/sep/08/decentralisation-next-big-step-for-the-world-wide-web-dweb-data-internet-censorship-brewster-kahle"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/the%20guardian.png" alt="Theguardian"></a>
+<a href=">https://www.polygon.com/2018/3/7/17087668/steemit-dtube-bitchute-youtube-purge<img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/Polygon_logo.svg.png" alt="Polygon"></a>
 </center>
 
 ### Who is behind DTube?
