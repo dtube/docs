@@ -113,4 +113,4 @@ Dtube is an open source project and contributions of the community are deeply ap
 
 ### Contact us (discord, twitter, email)
 
-If you want to reach us or join the community hop in and say hello! [Discord](https://discord.com/invite/dtube), [Twittter](https://twitter.com/dtube_official), [Reddit](https://www.reddit.com/r/dtube/) or you can send an e-mail to support@d.tube anytime.
+If you want to reach us or join the community hop in and say hello! [Discord](https://discord.com/invite/dtube), [Twittter](https://twitter.com/dtube_official), [Reddit](https://www.reddit.com/r/dtube/).
