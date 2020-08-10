@@ -83,13 +83,14 @@ Because we want D.Tube to be truly decentralized, we cannot have a server runnin
 <h2>Using decentralized File Storage</h2>
 
 <div class="ui grid">
-  <div class="five wide column">
+  <div class="two wide column"><div>
+  <div class="four wide column">
     <a href="wiki/ipfs"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/IPFS%201.png" alt="IPFS" style="width:100%"></a>
   </div>
-  <div class="five wide column">
+  <div class="four wide column">
    <a href="wiki/btfs"> <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/BTFS%201.png" alt="BTFS" style="width:100%"></a>
   </div>
-  <div class="five wide column">
+  <div class="four wide column">
    <a href="wiki/skynet"> <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/skynet.png" alt="SKYNET" style="width:100%"></a>
   </div>
 </div>
@@ -106,7 +107,7 @@ Dtube logo is an open source logo and you can use it on your website or your own
 
 <center>
 <div class="ui grid">
-  <div class="one wide column"><div>
+  <div class="two wide column"><div>
   <div class="four wide column">
     <a href="https://www.wired.com/story/the-decentralized-internet-is-here-with-some-glitches/"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/wired%20png.png" alt="WIRED" style="width:100%"></a>
   </div>
