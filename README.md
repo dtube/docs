@@ -22,7 +22,7 @@
 
 <center>
 
-![](https://i.imgur.com/kX85SrK.png)
+https://raw.githubusercontent.com/dtube/docs/master/imgs/dtubeabout.png
 
 </center>
 
@@ -31,7 +31,7 @@ Dtube aims to reinvent how information and revenue is shared in the video indust
 
 <p><div>
 
-![circle-cropped (4).png](https://cdn.steemitimages.com/DQmWGmVoGErHc3P2UUfreZeozs2EcGJWJ4itxjJMAaakdXG/circle-cropped%20(4).png)
+https://raw.githubusercontent.com/dtube/docs/master/imgs/censorshipresistant.png
 
 </div></p>
 
@@ -40,7 +40,7 @@ In Dtube we can't tamper with your content or suspend your account. Decentralize
 
 <p><div>
 
-![circle-cropped (5).png](https://cdn.steemitimages.com/DQmWsJy1QLku9imD7RwgrEXVNfkSs26S7NzmRHhQXX7X72K/circle-cropped%20(5).png)
+https://raw.githubusercontent.com/dtube/docs/master/imgs/cryptoincentive.png
 
 </div></p>
 
@@ -49,7 +49,7 @@ Dtube is a blockchain based social media and you can generate crypto rewards by 
 
 <p><div>
 
-![circle-cropped (3).png](https://cdn.steemitimages.com/DQmREy6UUAFchv73rGN3paUDJ5LzPSgqLTZTqWxJB4xL4Lm/circle-cropped%20(3).png)
+https://raw.githubusercontent.com/dtube/docs/master/imgs/fairplatform.png
 
 </div></p>
 
@@ -65,13 +65,13 @@ Because we want D.Tube to be truly decentralized, we cannot have a server runnin
 
 <div class="ui grid">
   <div class="five wide column">
-    <a href="wiki/ipfs"><img src="https://i.imgur.com/WMrVTct.png" alt="IPFS"></a>
+    <a href="wiki/ipfs"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/IPFS%201.png" alt="IPFS"></a>
   </div>
   <div class="five wide column">
-   <a href="wiki/btfs"> <img src="https://i.imgur.com/JzWTima.png" alt="BTFS"></a>
+   <a href="wiki/btfs"> <img src="https://github.com/dtube/docs/blob/master/imgs/BTFS%201.png" alt="BTFS"></a>
   </div>
   <div class="five wide column">
-   <a href="wiki/skynet"> <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/skynet2.png" alt="SKYNET"></a>
+   <a href="wiki/skynet"> <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/skynet.png" alt="SKYNET"></a>
   </div>
 </div>
 
@@ -87,17 +87,17 @@ Dtube logo is an open source logo and you can use it on your website or your own
 
 <div class="ui grid">
   <div class="five wide column">
-    <a href="https://www.wired.com/story/the-decentralized-internet-is-here-with-some-glitches/"><img src="https://i.imgur.com/LwtBFIs.png" alt="WIRED"></a>
+    <a href="https://www.wired.com/story/the-decentralized-internet-is-here-with-some-glitches/"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/wired%20png.png" alt="WIRED"></a>
   </div>
   <div class="five wide column">
-    <a href="https://www.bloomberg.com/news/articles/2018-04-10/youtube-and-facebook-are-losing-creators-to-blockchain-powered-rivals"><img src="https://i.imgur.com/yHMsTlL.png" alt="Bloomberg"></a>
+    <a href="https://www.bloomberg.com/news/articles/2018-04-10/youtube-and-facebook-are-losing-creators-to-blockchain-powered-rivals"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/bloomberg.png" alt="Bloomberg"></a>
   </div>
   <div class="five wide column">
-    <a href="https://www.polygon.com/2018/3/7/17087668/steemit-dtube-bitchute-youtube-purge"><img src="https://i.imgur.com/ZiYOEOp.png" alt="Polygon"></a>
+    <a href="https://www.polygon.com/2018/3/7/17087668/steemit-dtube-bitchute-youtube-purge"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/Polygon_logo.svg.png" alt="Polygon"></a>
   </div>
 </div>
 <center>
-<a href="https://www.theguardian.com/technology/2018/sep/08/decentralisation-next-big-step-for-the-world-wide-web-dweb-data-internet-censorship-brewster-kahle"><img src="https://i.imgur.com/BTea4Nv.png" alt="Theguardian"></a>
+<a href="https://www.theguardian.com/technology/2018/sep/08/decentralisation-next-big-step-for-the-world-wide-web-dweb-data-internet-censorship-brewster-kahle"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/the%20guardian.png" alt="Theguardian"></a>
 </center>
 
 ### Who is behind DTube?
