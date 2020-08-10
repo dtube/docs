@@ -104,19 +104,30 @@ Dtube logo is an open source logo and you can use it on your website or your own
 
 ### Press
 
+<center>
 <div class="ui grid">
-  <div class="five wide column">
+  <div class="one wide column"><div>
+  <div class="four wide column">
     <a href="https://www.wired.com/story/the-decentralized-internet-is-here-with-some-glitches/"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/wired%20png.png" alt="WIRED" style="width:100%"></a>
   </div>
-  <div class="five wide column">
+  <div class="four wide column">
     <a href="https://www.bloomberg.com/news/articles/2018-04-10/youtube-and-facebook-are-losing-creators-to-blockchain-powered-rivals"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/bloomberg.png" alt="Bloomberg" style="width:100%"></a>
   </div>
-  <div class="five wide column">
-    <a href="https://www.theguardian.com/technology/2018/sep/08/decentralisation-next-big-step-for-the-world-wide-web-dweb-data-internet-censorship-brewster-kahle"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/the%20guardian.png" alt="Theguardian" style="width:100%"></a>
+  <div class="four wide column">
+    <a href="https://www.theguardian.com/technology/2018/sep/08/decentralisation-next-big-step-for-the-world-wide-web-dweb-data-internet-censorship-brewster-kahle">       <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/the%20guardian.png" alt="Theguardian" style="width:100%"></a>
   </div>
 </div>
-<center>
-<a href=">https://www.polygon.com/2018/3/7/17087668/steemit-dtube-bitchute-youtube-purge"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/Polygon_logo.svg.png" alt="Polygon" style="width:100%"></a>
+
+<div class="ui grid">
+  <div class="one wide column"><div>
+  <div class="four wide column">
+  </div>
+  <div class="four wide column">
+    <a href=">https://www.polygon.com/2018/3/7/17087668/steemit-dtube-bitchute-youtube-purge"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/Polygon_logo.svg.png" alt="Polygon" style="width:100%"></a>
+  </div>
+  <div class="four wide column">
+  </div>
+</div>
 </center>
 
 
