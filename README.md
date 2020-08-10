@@ -99,8 +99,9 @@ Dtube logo is an open source logo and you can use it on your website or your own
   </div>
 </div>
 <center>
-<a href=">https://www.polygon.com/2018/3/7/17087668/steemit-dtube-bitchute-youtube-purge<img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/Polygon_logo.svg.png" alt="Polygon"></a>
+<a href=">https://www.polygon.com/2018/3/7/17087668/steemit-dtube-bitchute-youtube-purge"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/Polygon_logo.svg.png" alt="Polygon"></a>
 </center>
+
 
 ### Who is behind DTube?
 
