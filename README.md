@@ -32,7 +32,7 @@ Dtube aims to reinvent how information and revenue is shared in the video indust
     <p>In Dtube we can't tamper with your content or suspend your account. Decentralized features of Dtube makes your content  completely immutable and censorship resistant and your account is an asset which you truely own. We are strong advocate of free speech and digital freedom, everyone should be able to share and reach the information easily without having any problems.</p>
   </div>
   <div class="four wide column">
-    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/censorshipresistant.png" alt="censorshipresistant" style="width:100%">
+    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/cryptoincentive.png" alt="cryptorewards" style="width:100%">
     <br />
     <h3>Crypto rewards</h3>
     <p>Dtube is a blockchain based social media and you can generate crypto rewards by engaging, curating and creating content.</p>
