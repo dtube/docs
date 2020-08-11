@@ -19,30 +19,33 @@
 -  [How can I embed a Dtube video on my own website?](wiki/faq/how-can-i-embed-a-dtube-video-on-my-own-website)
 -  [How does burning mechanism works on Dtube?](wiki/faq/how-does-token-burning-mechanism-work-on-dtube)
 
+<h3>Vision for Dtube
+Dtube aims to reinvent how information and revenue is shared in the video industry. We want a platform with freedom of speech: no censorship. Everyone should be  able to share and access information. We want all content creators to be treated equally and fairly and make content accessible for everyone around the world
+
 <div class="ui grid">
   <div class="four wide column">
     <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/censorshipresistant.png" alt="Dtubelogoi" style="width:100%">
     <br />
-    <h3>Vision for DTube</h3>
-    <p>Dtube aims to reinvent how information and revenue is shared in the video industry. We want a platform with freedom of speech: no censorship. Everyone should be  able to share and access information. We want all content creators to be treated equally and fairly and make content accessible for everyone around the world.</p>
+    <h3>Resistant to censorship</h3>
+    <p>In Dtube we can't tamper with your content or suspend your account. Decentralized features of Dtube makes your content  completely immutable and censorship resistant and your account is an asset which you truely own. We are strong advocate of free speech and digital freedom, everyone should be able to share and reach the information easily without having any problems.</p>
+  </div>
+  <div class="four wide column">
+    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/censorshipresistant.png" alt="censorshipresistant" style="width:100%">
+    <br />
+    <h3>Crypto rewards</h3>
+    <p>Dtube is a blockchain based social media and you can generate crypto rewards by engaging, curating and creating content.</p>
+  </div>
+  <div class="four wide column">
+    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/fairplatform.png" style="width:100%">
+    <br />
+    <h3>No hidden algorithm a fair platform</h3>
+    <p>On DTube, there are no hidden algorithms controlling the visibility or monetization of certain videos over others.Content [ranking](wiki/video-rankings) is decided by community and  all of DTube's data is public, and can be analyzed by anyone.</p>
   </div>
   <div class="four wide column">
     <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/censorshipresistant.png" alt="Dtubelogoi" style="width:100%">
     <br />
-    <h3>Vision for DTube</h3>
-    <p>Dtube aims to reinvent how information and revenue is shared in the video industry. We want a platform with freedom of speech: no censorship. Everyone should be     able to share and access information. We want all content creators to be treated equally and fairly and make content accessible for everyone around the world.</p>
-  </div>
-  <div class="four wide column">
-    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/censorshipresistant.png" alt="Dtubelogoi" style="width:100%">
-    <br />
-    <h3>Vision for DTube</h3>
-    <p>Dtube aims to reinvent how information and revenue is shared in the video industry. We want a platform with freedom of speech: no censorship. Everyone should be     able to share and access information. We want all content creators to be treated equally and fairly and make content accessible for everyone around the world.</p>
-  </div>
-  <div class="four wide column">
-    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/censorshipresistant.png" alt="Dtubelogoi" style="width:100%">
-    <br />
-    <h3>Vision for DTube</h3>
-    <p>Dtube aims to reinvent how information and revenue is shared in the video industry. We want a platform with freedom of speech: no censorship. Everyone should be     able to share and access information. We want all content creators to be treated equally and fairly and make content accessible for everyone around the world.</p>
+    <h3>No Ads</h3>
+    <p>To deliver the best user experience D.Tube runs without advertising. Users remain free to advertise any product or service they would like, directly inside their own videos, at their own risk of losing their subscribers..</p>
   </div>
 </div>
 
