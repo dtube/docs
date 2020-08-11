@@ -19,7 +19,7 @@
 -  [How can I embed a Dtube video on my own website?](wiki/faq/how-can-i-embed-a-dtube-video-on-my-own-website)
 -  [How does burning mechanism works on Dtube?](wiki/faq/how-does-token-burning-mechanism-work-on-dtube)
 
-<h3>Vision for Dtube
+<h3>Vision for Dtube<h3>
 Dtube aims to reinvent how information and revenue is shared in the video industry. We want a platform with freedom of speech: no censorship. Everyone should be  able to share and access information. We want all content creators to be treated equally and fairly and make content accessible for everyone around the world
 
 <div class="ui grid">
