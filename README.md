@@ -47,7 +47,7 @@ Dtube aims to reinvent how information and revenue is shared in the video indust
     <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/censorshipresistant.png" alt="Dtubelogoi" style="width:100%">
     <br />
     <h3>No Ads</h3>
-    <p>To deliver the best user experience D.Tube runs without advertising. Users remain free to advertise any product or service they would like, directly inside their own videos, at their own risk of losing their subscribers..</p>
+    <p>To deliver the best user experience D.Tube runs without advertising. Users remain free to advertise any product or service they would like, directly inside their own videos, at their own risk of losing their subscribers.</p>
   </div>
 </div>
 
