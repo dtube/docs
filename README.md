@@ -88,7 +88,7 @@ Because we want D.Tube to be truly decentralized, we cannot have a server runnin
     <a href="wiki/ipfs"><img src="https://raw.githubusercontent.com/dtube/production/master/DTube_files/images/logos/ipfs.png" alt="IPFS" style="width:100%"></a>
   </div>
   <div class="four wide column">
-   <a href="wiki/btfs"> <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/BTFS%201.png" alt="BTFS" style="width:100%"></a>
+   <a href="wiki/btfs"> <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/filestorage/btfslogo.png" alt="BTFS" style="width:100%"></a>
   </div>
   <div class="four wide column">
    <a href="wiki/skynet"> <img src="https://raw.githubusercontent.com/dtube/production/master/DTube_files/images/logos/sia.svg" alt="SKYNET" style="width:100%"></a>
@@ -109,22 +109,21 @@ Dtube logo is an open source logo and you can use it on your website or your own
 <div class="ui grid">
   <div class="two wide column"></div>
   <div class="four wide column">
-    <a href="https://www.wired.com/story/the-decentralized-internet-is-here-with-some-glitches/"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/wired%20png.png" alt="WIRED" style="width:100%"></a>
+    <a href="https://www.wired.com/story/the-decentralized-internet-is-here-with-some-glitches/"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/press/wiredlogo.png" alt="WIRED" style="width:100%"></a>
   </div>
   <div class="four wide column">
-    <a href="https://www.bloomberg.com/news/articles/2018-04-10/youtube-and-facebook-are-losing-creators-to-blockchain-powered-rivals"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/bloomberg.png" alt="Bloomberg" style="width:100%"></a>
+    <a href="https://www.bloomberg.com/news/articles/2018-04-10/youtube-and-facebook-are-losing-creators-to-blockchain-powered-rivals"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/press/bloomberglogo.png" alt="Bloomberg" style="width:100%"></a>
   </div>
   <div class="four wide column">
-    <a href="https://www.theguardian.com/technology/2018/sep/08/decentralisation-next-big-step-for-the-world-wide-web-dweb-data-internet-censorship-brewster-kahle">       <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/the%20guardian.png" alt="Theguardian" style="width:100%"></a>
+    <a href="https://www.polygon.com/2018/3/7/17087668/steemit-dtube-bitchute-youtube-purge">       <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/press/polygonlogo.png" alt="Theguardian" style="width:100%"></a>
   </div>
 </div>
-
 <div class="ui grid">
   <div class="two wide column"></div>
   <div class="four wide column">
   </div>
   <div class="four wide column">
-    <a href=">https://www.polygon.com/2018/3/7/17087668/steemit-dtube-bitchute-youtube-purge"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/Polygon_logo.svg.png" alt="Polygon" style="width:100%"></a>
+    <a href="https://www.theguardian.com/technology/2018/sep/08/decentralisation-next-big-step-for-the-world-wide-web-dweb-data-internet-censorship-brewster-kahle"><img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/press/guardianlogo.png" alt="Polygon" style="width:100%"></a>
   </div>
   <div class="four wide column">
   </div>
