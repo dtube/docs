@@ -20,13 +20,15 @@
 -  [How does burning mechanism works on Dtube?](wiki/faq/how-does-token-burning-mechanism-work-on-dtube)
 
 <h3>Vision for Dtube<h3>
+
 Dtube aims to reinvent how information and revenue is shared in the video industry. We want a platform with freedom of speech: no censorship. Everyone should be  able to share and access information. We want all content creators to be treated equally and fairly and make content accessible for everyone around the world
 
 <div class="ui grid">
   <div class="four wide column">
     <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/censorshipresistant.png" alt="Dtubelogoi" style="width:100%">
     <br />
-    <h3>Resistant to censorship</h3>
+    
+<h3>Resistant to censorship</h3>
     <p>In Dtube we can't tamper with your content or suspend your account. Decentralized features of Dtube makes your content  completely immutable and censorship resistant and your account is an asset which you truely own. We are strong advocate of free speech and digital freedom, everyone should be able to share and reach the information easily without having any problems.</p>
   </div>
   <div class="four wide column">
@@ -49,34 +51,7 @@ Dtube aims to reinvent how information and revenue is shared in the video indust
   </div>
 </div>
 
-<p><div>
 
-<img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/censorshipresistant.png" alt="censorship">
-
-</div></p>
-
-### No censorship
-In Dtube we can't tamper with your content or suspend your account. Decentralized features of Dtube makes your content  completely immutable and censorship resistant and your account is an asset which you truely own. We are strong advocate of free speech and digital freedom, everyone should be able to share and reach the information easily without having any problems. 
-
-<p><div>
-
-<img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/cryptoincentive.png" alt="cryptoincome">
-
-
-
-</div></p>
-
-### Crypto rewards
-Dtube is a blockchain based social media and you can generate crypto rewards by engaging, curating and creating content.
-
-<p><div>
-
-<img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/fairplatform.png" alt="fairplatform">
-
-</div></p>
-
-### No hidden algorithms a fair platform
-On DTube, there are no hidden algorithms controlling the visibility or monetization of certain videos over others.Content [ranking](wiki/video-rankings) is decided by community and  all of DTube's data is public, and can be analyzed by anyone.
 
 ## How does it work?
 
