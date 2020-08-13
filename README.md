@@ -110,7 +110,7 @@ Dtube logo is an open source logo and you can use it on your website or your own
 
 
 ### Who is behind DTube?
-
+<center>
 <div class="ui grid">
   <div class="four wide column">
     <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/team/heimindanger.png" alt="heimindanger" style="width:50%">
@@ -155,7 +155,8 @@ Dtube logo is an open source logo and you can use it on your website or your own
     <p>Techcoderx</p>
   </div>
   <div class="four wide column">
- </div>
+  </div>
+  </center>
 
 ### Contact us (discord, twitter, email)
 
