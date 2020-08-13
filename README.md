@@ -139,6 +139,23 @@ Dtube logo is an open source logo and you can use it on your website or your own
   </div>
 </div>
 
+<div class="ui grid">
+  <div class="four wide column">
+  </div>
+  <div class="four wide column">
+    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/team/berk.png" alt="berk" style="width:50%">
+    <br />
+    <h3>Communication Manager</h3>
+    <p>Berk</p>
+  </div>
+  <div class="four wide column">
+    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/team/hightouch.png" style="width:50%">
+    <br />
+    <h3>Open-source contributor</h3>
+    <p>Techcoderx</p>
+  </div>
+  <div class="four wide column">
+  </div>
 
 ### Contact us (discord, twitter, email)
 
