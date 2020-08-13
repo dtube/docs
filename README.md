@@ -149,13 +149,13 @@ Dtube logo is an open source logo and you can use it on your website or your own
     <p>Berk</p>
   </div>
   <div class="four wide column">
-    <img src="https://github.com/dtube/docs/blob/master/imgs/team/techcoderx.png" alt="techcoder" style="width:50%">
+    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/team/techcoderx.png" alt="techcoder" alt="techcoder" style="width:50%">
     <br />
     <h3>Open-source contributor</h3>
     <p>Techcoderx</p>
   </div>
   <div class="four wide column">
-  </div>
+ </div>
 
 ### Contact us (discord, twitter, email)
 
