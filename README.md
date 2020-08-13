@@ -111,7 +111,33 @@ Dtube logo is an open source logo and you can use it on your website or your own
 
 ### Who is behind DTube?
 
-
+<div class="ui grid">
+  <div class="four wide column">
+    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/team/heimindanger.png" alt="heimindanger" style="width:100%">
+    <br />
+    
+<h3>CTO&Founder</h3>
+    <p>Heimindanger</p>
+  </div>
+  <div class="four wide column">
+    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/team/macron.png" alt="macron" style="width:100%">
+    <br />
+    <h3>Business Developer</h3>
+    <p>Gregorie</p>
+  </div>
+  <div class="four wide column">
+    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/team/hightouch.png" style="width:100%">
+    <br />
+    <h3>Developer</h3>
+    <p>Hightouch</p>
+  </div>
+  <div class="four wide column">
+    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/team/philippe.png" alt="philippe" style="width:100%">
+    <br />
+    <h3>Growth management</h3>
+    <p>Philippe</p>
+  </div>
+</div>
 
 
 ### Contact us (discord, twitter, email)
