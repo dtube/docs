@@ -44,7 +44,7 @@ Dtube aims to reinvent how information and revenue is shared in the video indust
     <p>On DTube, there are no hidden algorithms controlling the visibility or monetization of certain videos over others.Content [ranking](wiki/video-rankings) is decided by community and  all of DTube's data is public, and can be analyzed by anyone.</p>
   </div>
   <div class="four wide column">
-    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/censorshipresistant.png" alt="Dtubelogoi" style="width:50%">
+    <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/noads.png" alt="noads" style="width:50%">
     <br />
     <h3>No Ads</h3>
     <p>To deliver the best user experience D.Tube runs without advertising. Users remain free to advertise any product or service they would like, directly inside their own videos, at their own risk of losing their subscribers.</p>
@@ -111,11 +111,8 @@ Dtube logo is an open source logo and you can use it on your website or your own
 
 ### Who is behind DTube?
 
-<center>
-![](https://i.imgur.com/0mVPHGF.png)
-</center>
 
-Dtube is an open source project and contributions of the community are deeply appreciated, We consider every single contributor like curators, developers, translators and community members as team member.
+
 
 ### Contact us (discord, twitter, email)
 
