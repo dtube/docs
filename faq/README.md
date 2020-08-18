@@ -1,5 +1,5 @@
 ## FAQ
--  [Glossary](/wiki/faq/general/glossary)
+-  [Glossary](faq/general/glossary.md)
 -  [How does Dtube Work?](/wiki/faq/general/how-does-dtube-work)
 -  [How do I use Dtube ?](/wiki/faq/general/how-do-i-use-dtube)
 -  [How does token economy works?](/wiki/faq/blockchain/economy/how-does-token-economy-works)
@@ -7,7 +7,7 @@
 -  [Why is Dtube uncensorable?](/wiki/faq/general/why-is-dtube-uncensorable)
 -  [Does Dtube take beneficiary rewards?](/wiki/general/faq/does-dtube-take-beneficiary-rewards)
 -  [How do videos get ranked?](/wiki/faq/general/how-do-videos-get-ranked)
--  [Can I change my account name?](/wiki/faq/general/can-i-change-my-account-name)
+-  [Can I change my account name?](faq/general/can-i-change-my-account-name.md)
 -  [Can I publish nsfw content?](/wiki/faq/general/can-i-publish-nsfw-content)
 -  [I lost my key what can I do?](/wiki/faq/general/i-lost-my-key-what-can-i-do)
 -  [How can I create lesser authority keys?](/wiki/faq/blockchain/how-can-i-create-lesser-authority-keys)
