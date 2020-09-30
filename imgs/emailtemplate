@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <meta name="x-apple-disable-message-reformatting" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+        <title></title>
+        <style type="text/css">
+			/* /\/\/\/\/\/\/\/\/ CLIENT-SPECIFIC STYLES /\/\/\/\/\/\/\/\/ */
+			#outlook a{padding:0;}
+			.ReadMsgBody{width:100%;} .ExternalClass{width:100%;}
+			.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+			body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;}
+			table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;}
+			img{-ms-interpolation-mode:bicubic;} 
+			/* /\/\/\/\/\/\/\/\/ RESET STYLES /\/\/\/\/\/\/\/\/ */
+			body{margin:0; padding:0;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table{border-collapse:collapse !important;}
+			body, #bodyTable, #bodyCell{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			/* /\/\/\/\/\/\/\/\/ TEMPLATE STYLES /\/\/\/\/\/\/\/\/ */
+
+			/* ========== Page Styles ========== */
+
+			#bodyCell{padding:20px;}
+			#templateContainer{width:600px;}
+
+			body, #bodyTable{
+				background-color:#FFFFFF;
+			}
+
+			/* /\/\/\/\/\/\/\/\/ MOBILE STYLES /\/\/\/\/\/\/\/\/ */
+
+            @media only screen and (max-width: 480px){
+				/* /\/\/\/\/\/\/ CLIENT-SPECIFIC MOBILE STYLES /\/\/\/\/\/\/ */
+				body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;}
+                body{width:100% !important; min-width:100% !important;}
+
+				/* /\/\/\/\/\/\/ MOBILE RESET STYLES /\/\/\/\/\/\/ */
+				#bodyCell{padding:10px !important;}
+
+				/* /\/\/\/\/\/\/ MOBILE TEMPLATE STYLES /\/\/\/\/\/\/ */
+
+				/* ======== Page Styles ======== */
+
+				#templateContainer{
+					max-width:580px !important;
+					width:100% !important;
+				}
+
+                .w100p{width: 100% !important;height: auto !important;}
+
+				/* ======== Column Styles ======== */
+
+				.templateColumnContainer{display:block !important; width:100% !important;padding-left: 0 !important;padding-right: 0 !important;}
+
+				.columnImage{
+					height:auto !important;
+					max-width:100px !important;
+					width:100% !important;
+				}
+
+                .flexibleImages{
+                    height:auto !important;
+                    max-width:600px !important;
+                    width:100% !important;
+                }
+
+                .spacingHeight{height: 20px !important;line-height: 20px !important;}
+
+                .headerContent{font-size: 18px !important;line-height: 125% !important;}
+
+                .columnContent{font-size: 14px !important;line-height: 125% !important;}
+
+			}
+		</style>
+    </head>
+    <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+    	<center>
+        	<table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable">
+            	<tr>
+                	<td align="center" valign="top" id="bodyCell">
+                    	<!-- BEGIN TEMPLATE // -->
+                    	<table border="0" cellpadding="0" cellspacing="0" id="templateContainer" width="600">
+                            <tr>
+                                <td align="center" valign="top">
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                        <tr>
+                                            <td valign="top">
+                                                <a href="https://d.tube" target="_blank"><img src="visit_dTube.jpg" width="600" height="auto" style="max-width: 600px ;height: auto;display: block;" class="flexibleImages"></a>
+                                            </td> 
+                                        </tr>
+                                        <tr>
+                                            <td valign="top">
+                                                <a href="#" target="_blank"><img src="get_tube_coin.jpg" width="600" height="auto" style="max-width: 600px ;height: auto;display: block;" class="flexibleImages"></a>
+                                            </td> 
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr> 
+                        	<tr>
+                                <td align="center" valign="top" bgcolor="#fb006b" background="full_bg.jpg" height="1079" style="background: url(full_bg.jpg);background-repeat: no-repeat;background-size: 100% auto;background-color: #fb006b;background-position: bottom;">
+                                    <!--[if gte mso 9]>
+                                    <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px; height:1079px;">
+                                        <v:fill type="tile" src="https://i.imgur.com/sAVSwGU.jpg" color="#fb006b" />
+                                        <v:textbox inset="0,0,0,0">
+                                            <![endif]-->
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">   
+                                        <tr>
+                                            <td align="center" valign="top" style="padding-left: 30px;padding-right: 30px;">
+                                                <table align="center" border="0" cellpadding="0" cellspacing="0" width="474" class="w100p">
+                                                    <tr>
+                                                        <td valign="top" class="headerContent" style="font-family: Arial, Tahoma, sans-serif;color: #FFFFFF;text-align: left;font-size: 21px;line-height: 150%;mso-line-height-alt: 100%;">
+                                                            DTube is the first community powered fully decentralized video sharing platform where users vote on videos to reward creators, curators, influencers, and viewers in cryptocurrency.
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+
+                                        <tr><td height="40" class="spacingHeight" style="line-height: 40px;">&nbsp;</td></tr>
+
+                                        <tr>
+                                            <td align="center" valign="top" style="padding-left: 30px;padding-right: 30px;">
+                                                <table align="center" border="0" cellpadding="0" cellspacing="0" width="474" class="w100p">
+                                                    <tr>
+                                                        <td align="center" valign="top" width="134" class="templateColumnContainer" style="padding-top:20px;">
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                <tr>
+                                                                    <td valign="top">
+                                                                        <img src="icon_1.png" width="134" height="auto" style="max-width:134px;height: auto;" class="columnImage"/>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                        <td align="center" valign="top" class="templateColumnContainer" style="padding-top:20px;padding-left: 40px;">
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                <tr>
+                                                                    <td valign="top" class="columnContent" style="font-family: Arial, Tahoma, sans-serif;font-size: 16px;text-align: left;color: #FFFFFF;line-height: 135%;mso-line-height-alt: 100%;">
+                                                                        <span style="font-size: 18px;font-weight: bold;"><strong>CRYPTO INCENTIVE</strong></span>
+                                                                        <br><br>
+                                                                        DTube aims to become an alternative to Youtube that allows you to watch or upload videos on IPFS,BTFS and share or comment about it on the immutable Avalon 
+blockchain, while earning Dtube coin doing it.
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+
+                                        <tr><td height="60" class="spacingHeight" style="line-height: 60px;">&nbsp;</td></tr>
+
+                                        <tr>
+                                            <td align="center" valign="top" style="padding-left: 30px;padding-right: 30px;">
+                                                <table align="center" border="0" cellpadding="0" cellspacing="0" width="474" class="w100p">
+                                                    <tr>
+                                                        <td align="center" valign="top" width="134" class="templateColumnContainer" style="padding-top:20px;">
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                <tr>
+                                                                    <td valign="top">
+                                                                        <img src="icon_2.png" width="134" height="auto" style="max-width:134px;height: auto;" class="columnImage"/>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                        <td align="center" valign="top" class="templateColumnContainer" style="padding-top:20px;padding-left: 40px;">
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                <tr>
+                                                                    <td valign="top"  class="columnContent" style="font-family: Arial, Tahoma, sans-serif;font-size: 16px;text-align: left;color: #FFFFFF;line-height: 135%;mso-line-height-alt: 100%;">
+                                                                        <span style="font-size: 18px;font-weight: bold;"><strong>RESISTANT TO CENSORSHIP</strong></span>
+                                                                        <br><br>
+                                                                        Because of the decentralized nature of Dtube and Avalon, DTube is not able to censor any videos nor enforce guidelines. Only the users can censor it, through the power of their upvotes and downvotes and users have true asset ownership on their videos and accounts.
+
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+
+                                        <tr><td height="60" class="spacingHeight" style="line-height: 60px;">&nbsp;</td></tr>
+
+                                        <tr>
+                                            <td align="center" valign="top" style="padding-left: 30px;padding-right: 30px;">
+                                                <table align="center" border="0" cellpadding="0" cellspacing="0" width="474" class="w100p">
+                                                    <tr>
+                                                        <td align="center" valign="top" width="134" class="templateColumnContainer" style="padding-top:20px;">
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                <tr>
+                                                                    <td valign="top">
+                                                                        <img src="icon_3.png" width="134" height="auto" style="max-width:134px;height: auto;" class="columnImage"/>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                        <td align="center" valign="top" class="templateColumnContainer" style="padding-top:20px;padding-left: 40px;">
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                <tr>
+                                                                    <td valign="top" class="columnContent" style="font-family: Arial, Tahoma, sans-serif;font-size: 16px;text-align: left;color: #FFFFFF;line-height: 135%;mso-line-height-alt: 100%;">
+                                                                        <span style="font-size: 18px;font-weight: bold;"><strong>A FAIR PLATFORM</strong></span>
+                                                                        <br><br>
+                                                                        On Dtube, there are no hidden algorithms controlling the visibility or monetization of certain videos over the others. All of the DTube's data is public, and can be analyzed by anyone with an internet connection.
+
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+
+                                        <tr><td height="70" style="line-height: 70px;">&nbsp;</td></tr>
+
+                                        <tr>
+                                            <td align="center" valign="top" style="padding-left: 30px;padding-right: 30px;">
+                                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    <tr>
+                                                        <td valign="top" style="text-align: center;">
+                                                            <a href="#" target="_blank"><img src="btn_learn_more.png"></a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+
+                                        <tr><td height="70" style="line-height: 70px;">&nbsp;</td></tr>
+                                    </table>
+                                    <!--[if gte mso 9]>
+                                    </v:textbox>
+                                    </v:rect>
+                                <![endif]-->
+                                </td>   
+                            </tr>                            
+                            <tr>
+                                <td align="center" valign="top" bgcolor="#223154" style="background-color: #223154;padding-top: 60px;padding-bottom: 60px;padding-left: 30px;padding-right: 30px;">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                        <tr>
+                                            <td valign="top" class="socialIcon" style="text-align: center;line-height: 40px;">
+                                                <a href="https://twitter.com/DTube_Official" target="_blank"> <img src="twitter.png" width="32" height="auto" style="max-width: 32px;height: auto;"></a> &nbsp;
+                                                <a href="https://www.reddit.com/r/dtube" target="_blank"> <img src="reddit.png" width="32" height="auto" style="max-width: 32px;height: auto;"></a> &nbsp;
+                                                <a href="https://medium.com/@dtube" target="_blank"> <img src="medium.png" width="32" height="auto" style="max-width: 32px;height: auto;"></a> &nbsp;
+                                                <a href="https://discord.gg/dtube" target="_blank"> <img src="discord.png" width="32" height="auto" style="max-width: 32px;height: auto;"></a> &nbsp;
+                                                <a href="https://t.me/dtube_official" target="_blank"> <img src="telegram.png" width="32" height="auto" style="max-width: 32px;height: auto;"></a> &nbsp;
+                                                <a href="https://hive.blog/@dtube" target="_blank"> <img src="blog.png" width="32" height="auto" style="max-width: 32px;height: auto;"></a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top" style="text-align: center;padding-top: 40px;">
+                                                <a href="https://d.tube" target="_blank"><img src="DTube_footer_logo.png" width="117" height="auto" style="max-width: ;height: auto;"></a>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </body>
+</html>
