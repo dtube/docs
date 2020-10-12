@@ -160,4 +160,4 @@ Dtube logo is an open source logo and you can use it on your website or your own
 
 ### Contact us (discord, twitter, email)
 
-If you want to reach us or join the community hop in and say hello! [Discord](https://discord.com/invite/dtube), [Twittter](https://twitter.com/dtube_official), [Reddit](https://www.reddit.com/r/dtube/).
+If you want to reach us or join the community hop in and say hello! [Discord](https://discord.com/invite/dtube), [Twitter](https://twitter.com/dtube_official), [Reddit](https://www.reddit.com/r/dtube/).
