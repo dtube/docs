@@ -1,5 +1,11 @@
 # DTube Help
 
+On the surface DTube looks like "just another video sharing site". This couldn't be further from the truth. Once you start using the platform you'll see things that may be new to you. Some of them may seem unusual or maybe even be confusing.
+
+This Wiki is here for **you**, so you can find answers to your questions as fast as possible.
+
+[Introduction](/wiki/intro)
+
 ## FAQ
 -  [Glossary](/wiki/faq/glossary)
 -  [How does Dtube Work?](/wiki/faq/how-does-dtube-work)
