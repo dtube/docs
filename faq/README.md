@@ -17,4 +17,5 @@
 -  [How can I embed a Dtube video on my own website?](wiki/faq/how-can-i-embed-a-dtube-video-on-my-own-website)
 -  [How does burning mechanism works on Dtube?](wiki/faq/how-does-token-burning-mechanism-work-on-dtube)
 -  [How to get Dtube Coin from Ionomy Exchange?](wiki/faq/how-to-get-dtube-coin-from-ionomy)
+-  [How to get your desired username in Dtube?](wiki/faq/how-to-get-your-desired-name-on-dtube)
 
