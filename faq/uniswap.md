@@ -65,7 +65,7 @@ Inorder to do this you need to click select tokens and see the officially listed
 
 </center>
 
-**Dtube Coin(ERC-20) contract Adress**: xxxxxxxxxxxxxxxxx
+**Dtube Coin(ERC-20) contract Adress**: 0xd2be3722b17b616c51ed9b8944a227d1ce579c24
 
 Don't forget to add coin with this adress it will make your future transactions much easier.
 <center>
