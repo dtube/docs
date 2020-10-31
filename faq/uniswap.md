@@ -10,9 +10,7 @@ Uniswap is 100 percent on chain market maker that allows people swap  ERC20 toke
 ![](https://i.imgur.com/aUpWefG.png)</center>
 
 
-**Step:1** 
-
-Opening an Ethereum adress, since the metamask  is the most compatible and widely used one we reccomend using it.
+**Step:1**  Opening an Ethereum adress, since the metamask  is the most compatible and widely used one we reccomend using it.
 
 Go to **MetaMask.io** and select from Android or iOS for mobile application and select Chrome for desktop. You can also go directly to the Chrome store, Google Play store.
 
@@ -29,15 +27,13 @@ Go to **MetaMask.io** and select from Android or iOS for mobile application and 
 
 ![](https://i.imgur.com/DV7YOGq.png)
 
-
-
-
-
- 
-
-
 You need to give permission to Dtube app to use your wallet and receive an approval signature to your metamask.
+
+<center>
+
 ![](https://i.imgur.com/DqP4MMP.png)
+
+</center>
 
 After you connect Metamask you will be able to do Dtube to Dtube(ETH) to . You can use **reverse button** to make it Dtube(ETH) to Dtube and after you do this swap you should get your coins in few minutes.
 
@@ -68,15 +64,14 @@ Inorder to do this you need to click select tokens and see the officially listed
 **Dtube Coin(ERC-20) contract Adress**: 0xd2be3722b17b616c51ed9b8944a227d1ce579c24
 
 Don't forget to add coin with this adress it will make your future transactions much easier.
+
 <center>
 
 ![](https://i.imgur.com/DaYe3wo.png)
 
-
 </center>
 
-**Step 5:**
-After you succesfully import the Dtube Coin on Uniswap you will be able to swap it to Ethereum or swap your ethereum to Dtube coin.
+**Step 5:** After you succesfully import the Dtube Coin on Uniswap you will be able to swap it to Ethereum or swap your ethereum to Dtube coin.
 
 
 <center>
@@ -128,11 +123,13 @@ liquidity pools basically are, the pools of tokens that sit in smart contracts, 
 
 
 **Step: 1:** Click pool and add Liquidity
+
 ![](https://i.imgur.com/zEjoWGA.png)
 
 
 **Step 2:** Choose the token and pool you want to provide liquidity for.
-<center>
+
+;<center>
 
 ![](https://i.imgur.com/ZqmNWsJ.png)
 
