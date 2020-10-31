@@ -74,6 +74,6 @@ Visit our [Crowdin](https://crowdin.com/project/dtube) project and sign up.
 
 <hr>
 
-Thank you for helping **Dtube** grow, You are a wise person, only one more step left now, please send an email to contribution@d.tube with the relevant details for your contribution and don't forget to add your Dtube account name.
+Thank you for helping **Dtube** grow, You are a wise person, only one more step left now, reach us in Discord with the relevant details for your contribution and don't forget to add your Dtube account name.
 
 We believe the power of our community and open source projects, therefore all our contributors that provide accepted pull requests will receive **DTC**, because we value your time and effort.
