@@ -124,8 +124,11 @@ liquidity pools basically are, the pools of tokens that sit in smart contracts, 
 
 **Step: 1:** Click pool and add Liquidity
 
+<center>
+
 ![](https://i.imgur.com/zEjoWGA.png)
 
+</center>
 
 **Step 2:** Choose the token and pool you want to provide liquidity for.
 
