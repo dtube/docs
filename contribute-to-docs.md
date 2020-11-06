@@ -1,8 +1,28 @@
 ## Documentation
-The goal of this document is to help our contributors to understand what kind of documentation they can prepare and how should they write it.
+
+Every good project deserves good documentation. Perhaps you'd like to help?
+
+If yes, then this document is your starting point. Its job is to help you understand how you can best help us.
+
+## Requirements
+
+To make shared work easier for the community, there are some requirements your contribution has to meet.
+
+- Written in Markdown
+- Easy to convert to HTML
+- Submitted by pull request
 
 ## Creating Documentation for Dtube
-If you think a page is lacking important information or there are some mistakes on it or you want to add something completely new that you think its going to be beneficial you will find many areas to work on.
 
-Your documentation source should be written as regular Markdown files and should be easily convertable to HTML. If you want to contribute on any file to improve it please fork it first and send a pull request.
+Possible areas of improvement:
 
+- Fixing mistakes (typos, poor wording)
+- Improvements (making things more clear)
+- Asking for clarification, when something is confusing
+- Adding new sections/pages
+
+### Further reading
+
+How to fork a repo? - [GitHub Documentation]("https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo")
+Pull requests as a way to work together - [GitHub Documentation]("https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests")
+Using Markdown - [Markdown Guide]("https://www.markdownguide.org/")
