@@ -20,9 +20,10 @@ Possible areas of improvement:
 - Improvements (making things more clear)
 - Asking for clarification, when something is confusing
 - Adding new sections/pages
+- Fixing broken links
 
 ### Further reading
 
-How to fork a repo? - [GitHub Documentation]("https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo")
-Pull requests as a way to work together - [GitHub Documentation]("https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests")
-Using Markdown - [Markdown Guide]("https://www.markdownguide.org/")
+How to fork a repo? - [GitHub Documentation](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
+Pull requests as a way to work together - [GitHub Documentation](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
+Using Markdown - [Markdown Guide](https://www.markdownguide.org/)
