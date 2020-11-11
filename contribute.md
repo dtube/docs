@@ -1,21 +1,16 @@
 # Contribute to DTube
 
-**We’ve created this contribution guide to help you get started.** We have multiple categories to cater to people of varying interests so that everyone can find a way to help.
+**We’ve created this contribution guide to help you get started.** There are multiple categories, so people of varying interests can find a way to help.
 
 ## Summary
+
+1. [Repositories](#Repositories)
+1. [Coding](#Coding)
+1. [Design/UX](#Design/UX)
+1. [Documentation](#Documentation)
+1. [Translations](#Translations)
 1. [Questions?](#Questions?)
-2. [Repositories](#Repositories)
-3. [Coding](#Coding)
-4. [Design/UX](#Design/UX)
-5. [Documentation](#Documentation)
-6. [Translations](#Translations)
-
-
-## Questions?
-
-*1*- Feel free to join our [discord](discord.gg/dtube) channels or [reddit](https://www.reddit.com/dtube) and ask any question and meet with other developers
-*2*- You can get in touch with any team member about merge requests, questions or ideas.
-*3*- If you have feature ideas/questions or bug reports, you can search for existing issues or create a new [issue](https://github.com/dtube/dtube/issues) if there isn't one already
+1. [Our gratitude](#Our gratitude)
 
 ## Repositories
 
@@ -38,12 +33,12 @@ All of our code and assets are available directly in GitHub repositories.
 |[curation](https://github.com/dtube/dtube-curation)|NodeJS|A discord bot for DTube's curation team||
 
 ## Coding
+
 If you don't know what to work on but want to help, please work on issues listed on each repository tagged as *bug* or *enhancement*.
 
 However, it's also perfectly okay to submit pull requests for something you just want, even if it's not listed in the issues. Just understand that for this case not everything will get merged if it doesn't gather enough approval from other developers.
 
 As you can see from the repos list, we try to use Javascript whenever we can to get a job done. This doesn't mean you cannot contribute in another programming language by creating a new repository.
-
 
 ## Design/UX
 
@@ -51,19 +46,11 @@ Project files (ex. `*.pdf` or `*.ai`) are sadly not enough. We need CSS sheets a
 
 ## Documentation
 
-Documentation is a good way to get started on how to contribute. From fixing typos to better organizing our documentation or adding new documentation, you will find many areas where you can contribute.
-
-*1* - Find a page that’s lacking important information or that has a spelling/grammar mistake
-
-*2* -Locate the correct repository 
-
-*3* -Edit the content from Github and submit a pull request.
-
-You can always create new documentation that doesn't exist, if you think it will be beneficial to **Dtube**.
+Documentation is a great way to get started: here you can learn more [contribute to the documentation](wiki/contribute-to-docs).
 
 ## Translations
 
-**Dtube is being translated into more than 50 languages**, and all of this is happening **thanks to our wonderful community members**. With your valued help DTube could soon be available in your language!
+**DTube is being translated into more than 50 languages**, and all of this is happening **thanks to our wonderful community members**. With your valued help DTube could soon be available in your language!
 
 Visit our [Crowdin](https://crowdin.com/project/dtube) project and sign up.
 
@@ -72,10 +59,17 @@ Visit our [Crowdin](https://crowdin.com/project/dtube) project and sign up.
    1. You can leave a message to project managers about translations in Crowdin
 1. After approval the changes will be applied to one of the next patches.
 
+
+## Questions?
+
+Feel free to reach out through [our social media](README#contact-us). You can get in touch with any team member about merge requests, questions or ideas.
+
+Another way to send bug reports and feature requests is through GitHub. Go to the appropriate repository and create a new issue if there isn't one already ([like here](https://github.com/dtube/dtube/issues)).
+
 ---
 
 ## Our gratitude
 
-**Thank you for helping Dtube grow!** Since we believe in the power of our community and open source projects in general, **all our contributors with accepted pull requests will receive DTC**. We want to value your time and effort.
+**Thank you for helping DTube grow!** Since we believe in the power of our community and open source projects in general, **all our contributors with accepted pull requests will receive DTC**. We want to value your time and effort.
 
 Have some unanswered questions? Reach out to us!

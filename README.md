@@ -3,12 +3,12 @@
 ## FAQ
 
 -  [Glossary](/wiki/faq/glossary)
--  [How does Dtube Work?](/wiki/faq/how-does-dtube-work)
--  [How do I use Dtube ?](/wiki/faq/how-do-i-use-dtube)
+-  [How does DTube Work?](/wiki/faq/how-does-dtube-work)
+-  [How do I use DTube ?](/wiki/faq/how-do-i-use-dtube)
 -  [How does token economy works?](/wiki/faq/how-does-token-economy-works)
 -  [Where does the money come from?](/wiki/faq/where-does-the-money-come-from)
--  [Why is Dtube uncensorable?](/wiki/faq/why-is-dtube-uncensorable)
--  [Does Dtube take beneficiary rewards?](/wiki/faq/does-dtube-take-beneficiary-rewards)
+-  [Why is DTube uncensorable?](/wiki/faq/why-is-dtube-uncensorable)
+-  [Does DTube take beneficiary rewards?](/wiki/faq/does-dtube-take-beneficiary-rewards)
 -  [How do videos get ranked?](/wiki/faq/how-do-videos-get-ranked)
 -  [Can I change my account name?](/wiki/faq/can-i-change-my-account-name)
 -  [Can I publish NSFW content?](/wiki/faq/can-i-publish-nsfw-content)
@@ -17,11 +17,11 @@
 -  [How can I add cover image and avatar?](/wiki/faq/how-can-i-add-cover-image-and-avatar)
 -  [How can I give feedback?](/wiki/faq/giving-feedback)
 -  [What is a leader and how to vote leaders?](/wiki/leaders)
--  [How can I embed a Dtube video on my own website?](wiki/faq/how-can-i-embed-a-dtube-video-on-my-own-website)
--  [How does burning mechanism works on Dtube?](wiki/faq/how-does-token-burning-mechanism-work-on-dtube)
--  [How to use Uniswap to trade Dtube Coin?](wiki/faq/uniswap)
+-  [How can I embed a DTube video on my own website?](wiki/faq/how-can-i-embed-a-dtube-video-on-my-own-website)
+-  [How does burning mechanism works on DTube?](wiki/faq/how-does-token-burning-mechanism-work-on-dtube)
+-  [How to use Uniswap to trade DTube Coin?](wiki/faq/uniswap)
 
-## Vision for Dtube
+## Vision for DTube
 
 **DTube aims to reinvent how information and revenue is shared in the video industry.** We want a platform that promotes freedom of speech, by saying a hard *No!* to various mechanisms of censorship. We want all creators to be treated equally and fairly so they can make content accessible for everyone around the world.
 
@@ -31,14 +31,14 @@
     <br />
     
 <h3>Resistant to censorship</h3>
-    <p>We're strong advocates of Free Speech and digital freedom: everyone should be able to share and reach information easily. In Dtube even we can't tamper with your content or suspend your account. Decentralized features of Dtube make your uploads completely tamper and censorship resistant. Your account is an asset which you truely own. </p>
+    <p>We're strong advocates of Free Speech and digital freedom: everyone should be able to share and reach information easily. In DTube even we can't tamper with your content or suspend your account. Decentralized features of DTube make your uploads completely tamper and censorship resistant. Your account is an asset which you truely own. </p>
   </div>
 
   <div class="four wide column">
     <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/cryptoincentive.png" alt="cryptorewards" style="width:50%">
     <br />
     <h3>Crypto rewards</h3>
-    <p>Dtube is a blockchain based social media platform. You generate crypto rewards by engaging with others, especially by curating and creating content.</p>
+    <p>DTube is a blockchain based social media platform. You generate crypto rewards by engaging with others, especially by curating and creating content.</p>
   </div>
 
   <div class="four wide column">
@@ -105,13 +105,13 @@ The recommended way to go is to use decentralised upload methods: IPFS, BTFS and
 
 ### How to contribute
 
-DTube is fully [open-source software](https://opensource.org/osd). And since open-source projects form the foundation for our rapidly advancing technological world, we want to make it as easy as possible for Dtube users to become Dtube contributors. See our [contribution guide](wiki/contribute) to learn how you can help the project.
+DTube is fully [open-source software](https://opensource.org/osd). And since open-source projects form the foundation for our rapidly advancing technological world, we want to make it as easy as possible for DTube users to become DTube contributors. See our [contribution guide](wiki/contribute) to learn how you can help the project.
 
 You can also [contribute to the documentation](wiki/contribute-to-docs).
  
 ### Using DTube logo on your own project
 
-The Dtube logo is an open source one and you can use it on your website or your own project for any purpose. All you have to do is just access the [mediakit](https://github.com/dtube/about/tree/master/img/kit)
+The DTube logo is an open source one and you can use it on your website or your own project for any purpose. All you have to do is just access the [mediakit](https://github.com/dtube/about/tree/master/img/kit).
 
 ### Press
 
