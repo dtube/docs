@@ -46,7 +46,7 @@ Project files (ex. `*.pdf` or `*.ai`) are sadly not enough. We need CSS sheets a
 
 ## Documentation
 
-**Documentation is a great way to get started**: [here you can learn more](contribute-to-docs).
+**Documentation is a great way to get started**: [here you can learn more](contribute-to-docs.md).
 
 ## Translations
 
