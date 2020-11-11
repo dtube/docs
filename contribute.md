@@ -4,13 +4,13 @@
 
 ## Summary
 
-1. [Repositories](#Repositories)
-1. [Coding](#Coding)
-1. [Design/UX](#Design/UX)
-1. [Documentation](#Documentation)
-1. [Translations](#Translations)
-1. [Questions?](#Questions?)
-1. [Our gratitude](#Our gratitude)
+1. [Repositories](#repositories)
+1. [Coding](#coding)
+1. [Design/UX](#designux)
+1. [Documentation](#documentation)
+1. [Translations](#translations)
+1. [Questions?](#questions)
+1. [Our gratitude](#our-gratitude)
 
 ## Repositories
 
@@ -38,7 +38,7 @@ If you don't know what to work on but want to help, please work on issues listed
 
 However, it's also perfectly okay to submit pull requests for something you just want, even if it's not listed in the issues. Just understand that for this case not everything will get merged if it doesn't gather enough approval from other developers.
 
-As you can see from the repos list, we try to use Javascript whenever we can to get a job done. This doesn't mean you cannot contribute in another programming language by creating a new repository.
+As you can see from the repos list, we try to use Javascript whenever we can to get a job done. You can still, however, contribute in another programming language by creating a new repository.
 
 ## Design/UX
 
@@ -46,7 +46,7 @@ Project files (ex. `*.pdf` or `*.ai`) are sadly not enough. We need CSS sheets a
 
 ## Documentation
 
-Documentation is a great way to get started: here you can learn more [contribute to the documentation](wiki/contribute-to-docs).
+**Documentation is a great way to get started**: [here you can learn more](contribute-to-docs).
 
 ## Translations
 
@@ -62,7 +62,7 @@ Visit our [Crowdin](https://crowdin.com/project/dtube) project and sign up.
 
 ## Questions?
 
-Feel free to reach out through [our social media](README#contact-us). You can get in touch with any team member about merge requests, questions or ideas.
+Feel free to reach out through [our social media](README.md#contact-us). You can get in touch with any team member about merge requests, questions or ideas.
 
 Another way to send bug reports and feature requests is through GitHub. Go to the appropriate repository and create a new issue if there isn't one already ([like here](https://github.com/dtube/dtube/issues)).
 
@@ -71,5 +71,3 @@ Another way to send bug reports and feature requests is through GitHub. Go to th
 ## Our gratitude
 
 **Thank you for helping DTube grow!** Since we believe in the power of our community and open source projects in general, **all our contributors with accepted pull requests will receive DTC**. We want to value your time and effort.
-
-Have some unanswered questions? Reach out to us!

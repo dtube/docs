@@ -29,30 +29,33 @@
   <div class="four wide column">
     <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/censorshipresistant.png" alt="Dtubelogoi" style="width:50%">
     <br />
-    
+
 <h3>Resistant to censorship</h3>
-    <p>We're strong advocates of Free Speech and digital freedom: everyone should be able to share and reach information easily. In DTube even we can't tamper with your content or suspend your account. Decentralized features of DTube make your uploads completely tamper and censorship resistant. Your account is an asset which you truely own. </p>
+    <p>We're strong advocates of Free Speech and digital freedom: everyone should be able to share and reach information easily. In DTube <em>even we can't tamper with your content or suspend your account</em>. Decentralized features of this platform make your uploads completely tamper and censorship resistant. <em>Your account is an asset which you truely own.</em></p>
   </div>
 
   <div class="four wide column">
     <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/cryptoincentive.png" alt="cryptorewards" style="width:50%">
     <br />
+
     <h3>Crypto rewards</h3>
-    <p>DTube is a blockchain based social media platform. You generate crypto rewards by engaging with others, especially by curating and creating content.</p>
+    <p>DTube is a blockchain based social media platform. <em>You generate crypto rewards by engaging with others</em>, especially by curating and creating content.</p>
   </div>
 
   <div class="four wide column">
     <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/fairplatform.png" style="width:50%">
     <br />
+
     <h3>A fair platform with no hidden algorithms</h3>
-    <p>On DTube, there are no "secret forces" controlling the visibility and/or monetization of certain videos over others. The content [ranking](wiki/video-rankings) is decided by the community. Also: all of DTube's data is public, so it can be analyzed by anyone.</p>
+    <p>On DTube, there are no "secret forces" controlling the visibility and/or monetization of certain videos over others. **The content [ranking](wiki/video-rankings) is decided by the community**. Also: all of DTube's data is public, so it can be analyzed by anyone.</p>
   </div>
 
   <div class="four wide column">
     <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/noads.png" alt="noads" style="width:50%">
     <br />
+
     <h3>No intrusive ads</h3>
-    <p>To deliver the best user experience D.Tube does not put ads into user videos. Creators remain free to advertise any product or service they would like, directly inside their own videos (at the risk of losing subscribers, perhaps).</p>
+    <p>To deliver the best user experience **DTube does not put ads into user videos**. Creators remain free to advertise any product or service they would like, directly inside their own videos (at the risk of losing subscribers, perhaps).</p>
   </div>
 </div>
 
@@ -99,9 +102,9 @@ By using *third party providers* you can embed an existing video (so, technicall
 
 The video does not have to be your own original content: by doing so, you're becoming a curator and earning your curation rewards. The original uploader still earns their money through ads and partnerships they have on the third party platform.
 
-Keep in mind: videos added to DTube this way have all the limitations of their platform. If the 3rd party decides to remove the video or censor it for whatever reason, this will affect all embeds, including the one on DTube. Content added through 3rd parties has zero benefits as far as decentralization goes. 
+Keep in mind: videos added to DTube this way have all the limitations of their platform. **If the 3rd party decides to remove the video or censor it for whatever reason, this will affect all embeds, including the one on DTube**. Content added through 3rd parties has zero benefits as far as decentralization goes. 
 
-The recommended way to go is to use decentralised upload methods: IPFS, BTFS and Skynet.
+The recommended way is to use decentralised upload methods: IPFS, BTFS and Skynet.
 
 ### How to contribute
 
@@ -109,7 +112,7 @@ DTube is fully [open-source software](https://opensource.org/osd). And since ope
 
 You can also [contribute to the documentation](wiki/contribute-to-docs).
  
-### Using DTube logo on your own project
+### Using the DTube logo on your own project
 
 The DTube logo is an open source one and you can use it on your website or your own project for any purpose. All you have to do is just access the [mediakit](https://github.com/dtube/about/tree/master/img/kit).
 
@@ -192,7 +195,7 @@ The DTube logo is an open source one and you can use it on your website or your 
 
 ### Contact us
 
-Want to reach us to ask questions or give suggestions? Don't be shy!
+Do you have questions? Maybe you want to give suggestions? Don't be shy!
 
 Our official social media:
 
