@@ -1,62 +1,77 @@
 # DTube Help
 
 ## FAQ
+
 -  [Glossary](/wiki/faq/glossary)
--  [How does Dtube Work?](/wiki/faq/how-does-dtube-work)
--  [How do I use Dtube ?](/wiki/faq/how-do-i-use-dtube)
+-  [How does DTube Work?](/wiki/faq/how-does-dtube-work)
+-  [How do I use DTube ?](/wiki/faq/how-do-i-use-dtube)
 -  [How does token economy works?](/wiki/faq/how-does-token-economy-works)
 -  [Where does the money come from?](/wiki/faq/where-does-the-money-come-from)
--  [Why is Dtube uncensorable?](/wiki/faq/why-is-dtube-uncensorable)
--  [Does Dtube take beneficiary rewards?](/wiki/faq/does-dtube-take-beneficiary-rewards)
+-  [Why is DTube uncensorable?](/wiki/faq/why-is-dtube-uncensorable)
+-  [Does DTube take beneficiary rewards?](/wiki/faq/does-dtube-take-beneficiary-rewards)
 -  [How do videos get ranked?](/wiki/faq/how-do-videos-get-ranked)
 -  [Can I change my account name?](/wiki/faq/can-i-change-my-account-name)
--  [Can I publish nsfw content?](/wiki/faq/can-i-publish-nsfw-content)
+-  [Can I publish NSFW content?](/wiki/faq/can-i-publish-nsfw-content)
 -  [I lost my key what can I do?](/wiki/faq/i-lost-my-key-what-can-i-do)
 -  [How can I create lesser authority keys?](/wiki/faq/how-can-i-create-lesser-authority-keys)
 -  [How can I add cover image and avatar?](/wiki/faq/how-can-i-add-cover-image-and-avatar)
 -  [How can I give feedback?](/wiki/faq/giving-feedback)
 -  [What is a leader and how to vote leaders?](/wiki/leaders)
--  [How can I embed a Dtube video on my own website?](wiki/faq/how-can-i-embed-a-dtube-video-on-my-own-website)
--  [How does burning mechanism works on Dtube?](wiki/faq/how-does-token-burning-mechanism-work-on-dtube)
--  [How to use Uniswap to trade Dtube Coin?](wiki/faq/uniswap)
-## Vision for Dtube
+-  [How can I embed a DTube video on my own website?](wiki/faq/how-can-i-embed-a-dtube-video-on-my-own-website)
+-  [How does burning mechanism works on DTube?](wiki/faq/how-does-token-burning-mechanism-work-on-dtube)
+-  [How to use Uniswap to trade DTube Coin?](wiki/faq/uniswap)
 
-Dtube aims to reinvent how information and revenue is shared in the video industry. We want a platform with freedom of speech: no censorship. Everyone should be  able to share and access information. We want all content creators to be treated equally and fairly and make content accessible for everyone around the world
+## Vision for DTube
+
+**DTube aims to reinvent how information and revenue is shared in the video industry.** We want a platform that promotes freedom of speech, by saying a hard *No!* to various mechanisms of censorship. We want all creators to be treated equally and fairly so they can make content accessible for everyone around the world.
 
 <div class="ui grid">
   <div class="four wide column">
     <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/censorshipresistant.png" alt="Dtubelogoi" style="width:50%">
     <br />
-    
+
 <h3>Resistant to censorship</h3>
-    <p>In Dtube we can't tamper with your content or suspend your account. Decentralized features of Dtube makes your content  completely immutable and censorship resistant and your account is an asset which you truely own. We are strong advocate of free speech and digital freedom, everyone should be able to share and reach the information easily without having any problems.</p>
+    <p>We're strong advocates of Free Speech and digital freedom: everyone should be able to share and reach information easily. In DTube <em>even we can't tamper with your content or suspend your account</em>. Decentralized features of this platform make your uploads completely tamper and censorship resistant. <em>Your account is an asset which you truely own.</em></p>
   </div>
+
   <div class="four wide column">
     <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/cryptoincentive.png" alt="cryptorewards" style="width:50%">
     <br />
+
     <h3>Crypto rewards</h3>
-    <p>Dtube is a blockchain based social media and you can generate crypto rewards by engaging, curating and creating content.</p>
+    <p>DTube is a blockchain based social media platform. <em>You generate crypto rewards by engaging with others</em>, especially by curating and creating content.</p>
   </div>
+
   <div class="four wide column">
     <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/fairplatform.png" style="width:50%">
     <br />
-    <h3>No hidden algorithm a fair platform</h3>
-    <p>On DTube, there are no hidden algorithms controlling the visibility or monetization of certain videos over others.Content [ranking](wiki/video-rankings) is decided by community and  all of DTube's data is public, and can be analyzed by anyone.</p>
+
+    <h3>A fair platform with no hidden algorithms</h3>
+    <p>On DTube, there are no "secret forces" controlling the visibility and/or monetization of certain videos over others. **The content [ranking](wiki/video-rankings) is decided by the community**. Also: all of DTube's data is public, so it can be analyzed by anyone.</p>
   </div>
+
   <div class="four wide column">
     <img src="https://raw.githubusercontent.com/dtube/docs/master/imgs/noads.png" alt="noads" style="width:50%">
     <br />
-    <h3>No Ads</h3>
-    <p>To deliver the best user experience D.Tube runs without advertising. Users remain free to advertise any product or service they would like, directly inside their own videos, at their own risk of losing their subscribers.</p>
+
+    <h3>No intrusive ads</h3>
+    <p>To deliver the best user experience **DTube does not put ads into user videos**. Creators remain free to advertise any product or service they would like, directly inside their own videos (at the risk of losing subscribers, perhaps).</p>
   </div>
 </div>
-
-
 
 ## How does it work?
 
 ### Using Blockchain as a database
-Because we want D.Tube to be truly decentralized, we cannot have a server running a database and use it to query things. Using Avalon blockchain is a natural solution. It is fast . It is free, anyone can use it without having to deposit some form of currency, and transactions have no fees. Who would want to pay money to upload a video, comment a video, or even upvote? Any video uploaded on D.Tube becomes an Avalon content, that can earn rewards also you can post your content to Steem and Hive blockchains and benefit from interoperable features of Dtube.
+
+In order to make DTube a truly decentralized solution, we decided to use blockchain technology. And since no blockchains available were fit for the purpose we created our own: **Avalon**.
+
+In short:
+
+- No transaction fees
+- No upfront deposit
+- Videos can generate rewards
+
+Note for Steem and Hive users: by logging with your Steem/Hive credentials you can use DTube with more than one chain and use interoperable features.
 
 <h2>Using decentralized File Storage</h2>
 
@@ -74,12 +89,32 @@ Because we want D.Tube to be truly decentralized, we cannot have a server runnin
 </div>
 
 #### 3rd parties
-Third party video providers is a great way to ensure that your video is watchable at highest qualities. In Dtube you can directly share your videos If you want to share a non-original video on DTube, this is the recommended way, as it will reward the original creator registered on these third party websites. Currently can use  Youtube, Instagram, Facebook, Twitch, Dailymotion, Vimeo and Liveleak for this feature.
+
+By using *third party providers* you can embed an existing video (so, technically you're not "uploading" anything). Supported sites include:
+
+- Twitch
+- YouTube
+- Dailymotion
+- Instagram
+- LiveLeak
+- Vimeo
+- Facebook
+
+The video does not have to be your own original content: by doing so, you're becoming a curator and earning your curation rewards. The original uploader still earns their money through ads and partnerships they have on the third party platform.
+
+Keep in mind: videos added to DTube this way have all the limitations of their platform. **If the 3rd party decides to remove the video or censor it for whatever reason, this will affect all embeds, including the one on DTube**. Content added through 3rd parties has zero benefits as far as decentralization goes. 
+
+The recommended way is to use decentralised upload methods: IPFS, BTFS and Skynet.
 
 ### How to contribute
-DTube is full open-source software. We want to make it as easy as possible for Dtube users to become Dtube contributors, open-source projects form the backbone, basis, and foundation for our rapidly advancing technological world. If you want to contribute to the Dtube check out our [contribution guide](wiki/contribution). 
-### Using DTube logo on your own project
-Dtube logo is an open source logo and you can use it on your website or your own project for any purpose. All you have to do is just access to the [mediakit](https://github.com/dtube/about/tree/master/img/kit)
+
+DTube is fully [open-source software](https://opensource.org/osd). And since open-source projects form the foundation for our rapidly advancing technological world, we want to make it as easy as possible for DTube users to become DTube contributors. See our [contribution guide](wiki/contribute) to learn how you can help the project.
+
+You can also [contribute to the documentation](wiki/contribute-to-docs).
+ 
+### Using the DTube logo on your own project
+
+The DTube logo is an open source one and you can use it on your website or your own project for any purpose. All you have to do is just access the [mediakit](https://github.com/dtube/about/tree/master/img/kit).
 
 ### Press
 
@@ -158,6 +193,13 @@ Dtube logo is an open source logo and you can use it on your website or your own
   </div>
   </center>
 
-### Contact us (discord, twitter, email)
+### Contact us
 
-If you want to reach us or join the community hop in and say hello! [Discord](https://discord.com/invite/dtube), [Twitter](https://twitter.com/dtube_official), [Reddit](https://www.reddit.com/r/dtube/).
+Do you have questions? Maybe you want to give suggestions? Don't be shy!
+
+Our official social media:
+
+- [Discord](https://discord.com/invite/dtube)
+- [Twitter](https://twitter.com/dtube_official)
+- [Reddit](https://www.reddit.com/r/dtube/)
+- [Telegram group](https://t.me/dtube_official)
