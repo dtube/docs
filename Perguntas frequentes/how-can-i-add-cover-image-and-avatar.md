@@ -1,3 +1,4 @@
+![ronaldo](https://user-images.githubusercontent.com/105179927/167321836-64c84ff5-5314-466e-b96f-e545e61710d8.jpg)
 ## How can I change cover image and avatar ?
 
 You need to have a DTube account and log in with it, then you need to go to **My Channel** and go in to **ABOUT** section, finally click the red **EDIT** button.
