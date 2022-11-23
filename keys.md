@@ -1,4 +1,4 @@
-## Public Key vs Private Key
+nikhilt12/docs## Public Key vs Private Key
 When adding a new key to DTube, you will be shown a public key, and a private key.
 
 The public key is what will be linked to your username in the public blockchain data. Everyone will be able to see your public key. In other blockchains like Bitcoin, you would use the Public key as the destination address for a monetary transfer, however on d.tube, everyone has a username, so we use the username for monetary transfers instead.
