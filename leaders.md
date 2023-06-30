@@ -14,8 +14,10 @@ You can vote a leader you desire from **Leaders** segment and you will see an [e
 
 You can vote for **up to 5 leaders**, however voting for multiple leaders will spread your stake between them.
 
+Make sure to regularly review and update your votes on D.tube, as a leader with a non-functional node can contribute to the platform's vulnerability.
+
 ### How to become a leader
 You can become a leader by running an [Avalon](https://github.com/dtube/avalon) node, and receving enough leader votes to put you into the most highly voted users. Feel free to join the #leaders-candidates on the discord to communicate with other established leaders and get started faster!
 
 ### Do leaders earn anything?
-Yes, leaders currently earn 0.01 DTC for each produced block, as well as +500 VP straight into their account power.
+Yes, leaders currently earn 0.01 DTC for each produced block, as well as +100 VP straight into their account power.
